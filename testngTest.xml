@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<parameter name="browser" value="chrome" />
+  <test name="Test on Chrome">
+		
+		<classes>
+			<class name="com.mindtree.kalinga.EasyBucks.test.EasyBucks.LoginTest" />
+		</classes>
+	</test>
+	<!--  <test name="Test on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.mindtree.kalinga.EasyBucks.test.EasyBucks.SignUpTest" />
+		</classes>
+	</test>
+	<test name="Test on ie">
+		<parameter name="browser" value="ie" />
+		<classes>
+			<class name="com.mindtree.kalinga.EasyBucks.test.EasyBucks.SignUpTest" />
+		</classes>
+	</test>  -->
+</suite> <!-- Suite -->

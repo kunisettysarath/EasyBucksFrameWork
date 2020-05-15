@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test on Chrome(failed)">
+    <classes>
+      <class name="com.mindtree.kalinga.EasyBucks.test.EasyBucks.InvestorWriteQuery">
+        <methods>
+          <include name="aclass"/>
+          <include name="beforeSuit"/>
+          <include name="manageAssistance"/>
+          <include name="tearDown"/>
+          <include name="adminLogin"/>
+          <include name="aSuit"/>
+          <include name="beforeClass"/>
+          <include name="bmethod"/>
+        </methods>
+      </class> <!-- com.mindtree.kalinga.EasyBucks.test.EasyBucks.InvestorWriteQuery -->
+    </classes>
+  </test> <!-- Test on Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,2381 @@
+2018-01-11 12:13:07,163 - LoginImplementation -INFO - Username entered
+2018-01-11 12:13:07,249 - LoginImplementation -INFO - password entered
+2018-01-11 12:13:10,737 - LoginImplementation -INFO - Login button clicked
+2018-01-11 12:40:54,409 - BaseClass -INFO - URL Entered
+2018-01-11 12:40:55,889 - BaseClass -INFO - windows maximized
+2018-01-11 12:40:56,744 - LoginImplementation -INFO - Username entered
+2018-01-11 12:40:56,868 - LoginImplementation -INFO - password entered
+2018-01-11 12:41:00,810 - LoginImplementation -INFO - Login button clicked
+2018-01-11 12:50:28,587 - BaseClass -INFO - URL Entered
+2018-01-11 12:50:30,017 - BaseClass -INFO - windows maximized
+2018-01-11 12:50:30,876 - LoginImplementation -INFO - Username entered
+2018-01-11 12:50:30,970 - LoginImplementation -INFO - password entered
+2018-01-11 12:50:36,006 - LoginImplementation -INFO - Login button clicked
+2018-01-11 14:34:58,932 - BaseClass -INFO - URL Entered
+2018-01-11 14:35:00,132 - BaseClass -INFO - windows maximized
+2018-01-11 14:35:01,218 - LoginImplementation -INFO - Username entered
+2018-01-11 14:35:01,338 - LoginImplementation -INFO - password entered
+2018-01-11 14:35:05,011 - LoginImplementation -INFO - Login button clicked
+2018-01-11 14:43:29,670 - BaseClass -INFO - URL Entered
+2018-01-11 14:43:30,860 - BaseClass -INFO - windows maximized
+2018-01-11 14:43:31,738 - LoginImplementation -INFO - Username entered
+2018-01-11 14:43:31,869 - LoginImplementation -INFO - password entered
+2018-01-11 14:43:35,612 - LoginImplementation -INFO - Login button clicked
+2018-01-11 16:43:12,569 - BaseClass -INFO - URL Entered
+2018-01-11 16:43:13,755 - BaseClass -INFO - windows maximized
+2018-01-11 16:46:06,557 - BaseClass -INFO - URL Entered
+2018-01-11 16:46:07,749 - BaseClass -INFO - windows maximized
+2018-01-11 16:46:08,767 - LoginImplementation -INFO - Username entered
+2018-01-11 16:46:08,877 - LoginImplementation -INFO - password entered
+2018-01-11 16:46:09,080 - LoginImplementation -INFO - Login button clicked
+2018-01-11 16:46:38,409 - BaseClass -INFO - URL Entered
+2018-01-11 16:46:39,617 - BaseClass -INFO - windows maximized
+2018-01-11 16:46:40,759 - LoginImplementation -INFO - Username entered
+2018-01-11 16:46:40,916 - LoginImplementation -INFO - password entered
+2018-01-11 16:46:41,168 - LoginImplementation -INFO - Login button clicked
+2018-01-11 17:20:29,638 - BaseClass -INFO - URL Entered
+2018-01-11 17:20:31,032 - BaseClass -INFO - windows maximized
+2018-01-11 17:20:32,038 - LoginImplementation -INFO - Username entered
+2018-01-11 17:20:32,188 - LoginImplementation -INFO - password entered
+2018-01-11 17:20:32,414 - LoginImplementation -INFO - Login button clicked
+2018-01-11 18:59:02,557 - BaseClass -INFO - URL Entered
+2018-01-11 18:59:03,706 - BaseClass -INFO - windows maximized
+2018-01-11 19:00:36,595 - BaseClass -INFO - URL Entered
+2018-01-11 19:00:37,762 - BaseClass -INFO - windows maximized
+2018-01-11 19:00:38,630 - LoginImplementation -INFO - Username entered
+2018-01-11 19:00:38,726 - LoginImplementation -INFO - password entered
+2018-01-11 19:00:38,888 - LoginImplementation -INFO - Login button clicked
+2018-01-11 19:02:33,506 - BaseClass -INFO - URL Entered
+2018-01-11 19:02:34,675 - BaseClass -INFO - windows maximized
+2018-01-11 19:02:35,580 - LoginImplementation -INFO - Username entered
+2018-01-11 19:02:35,694 - LoginImplementation -INFO - password entered
+2018-01-11 19:02:35,859 - LoginImplementation -INFO - Login button clicked
+2018-01-11 19:03:08,563 - BaseClass -INFO - URL Entered
+2018-01-11 19:03:09,736 - BaseClass -INFO - windows maximized
+2018-01-11 19:04:18,010 - BaseClass -INFO - URL Entered
+2018-01-11 19:04:19,179 - BaseClass -INFO - windows maximized
+2018-01-11 19:06:33,717 - BaseClass -INFO - URL Entered
+2018-01-11 19:06:34,900 - BaseClass -INFO - windows maximized
+2018-01-11 19:06:36,009 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:06:36,261 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:06:36,442 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:06:36,648 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:06:36,829 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:11:25,712 - BaseClass -INFO - URL Entered
+2018-01-11 19:11:26,891 - BaseClass -INFO - windows maximized
+2018-01-11 19:11:28,100 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:11:28,332 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:11:28,480 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:11:28,641 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:11:28,805 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:22:54,395 - BaseClass -INFO - windows maximized
+2018-01-11 19:22:56,415 - BaseClass -INFO - URL Entered
+2018-01-11 19:22:57,721 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:22:57,959 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:22:58,139 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:22:58,308 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:22:58,479 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:22:58,645 - BaseClass -INFO - windows maximized
+2018-01-11 19:23:00,256 - BaseClass -INFO - URL Entered
+2018-01-11 19:24:14,758 - BaseClass -INFO - windows maximized
+2018-01-11 19:24:16,717 - BaseClass -INFO - URL Entered
+2018-01-11 19:24:18,051 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:24:18,291 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:24:18,440 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:24:18,606 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:24:18,770 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:24:18,946 - BaseClass -INFO - windows maximized
+2018-01-11 19:24:20,515 - BaseClass -INFO - URL Entered
+2018-01-11 19:30:48,116 - BaseClass -INFO - windows maximized
+2018-01-11 19:30:50,101 - BaseClass -INFO - URL Entered
+2018-01-11 19:30:51,415 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:30:51,666 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:30:51,814 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:30:51,985 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:30:52,138 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:30:52,289 - BaseClass -INFO - windows maximized
+2018-01-11 19:30:53,844 - BaseClass -INFO - URL Entered
+2018-01-11 19:35:07,195 - BaseClass -INFO - windows maximized
+2018-01-11 19:35:09,216 - BaseClass -INFO - URL Entered
+2018-01-11 19:35:10,574 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:35:10,812 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:35:10,967 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:35:11,138 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:35:11,294 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:35:11,460 - BaseClass -INFO - windows maximized
+2018-01-11 19:35:13,043 - BaseClass -INFO - URL Entered
+2018-01-11 19:37:12,587 - BaseClass -INFO - windows maximized
+2018-01-11 19:37:14,565 - BaseClass -INFO - URL Entered
+2018-01-11 19:37:15,935 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:37:16,184 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:37:16,371 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:37:16,502 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:37:16,654 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:37:16,795 - BaseClass -INFO - windows maximized
+2018-01-11 19:37:18,335 - BaseClass -INFO - URL Entered
+2018-01-11 19:40:18,297 - BaseClass -INFO - windows maximized
+2018-01-11 19:40:20,320 - BaseClass -INFO - URL Entered
+2018-01-11 19:40:21,680 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:40:21,918 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:40:22,060 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:40:22,219 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:40:22,385 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:40:22,548 - BaseClass -INFO - windows maximized
+2018-01-11 19:40:24,156 - BaseClass -INFO - URL Entered
+2018-01-11 19:40:58,652 - BaseClass -INFO - windows maximized
+2018-01-11 19:41:00,656 - BaseClass -INFO - URL Entered
+2018-01-11 19:41:02,036 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:41:02,293 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:41:02,474 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:41:02,604 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:41:02,781 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:43:01,306 - BaseClass -INFO - windows maximized
+2018-01-11 19:43:03,749 - BaseClass -INFO - URL Entered
+2018-01-11 19:43:09,905 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:43:10,058 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:43:10,195 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:43:10,330 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:43:10,474 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:43:53,423 - BaseClass -INFO - windows maximized
+2018-01-11 19:43:55,502 - BaseClass -INFO - URL Entered
+2018-01-11 19:43:57,135 - BaseClass -INFO - windows maximized
+2018-01-11 19:43:58,340 - BaseClass -INFO - URL Entered
+2018-01-11 19:44:40,096 - BaseClass -INFO - windows maximized
+2018-01-11 19:44:42,049 - BaseClass -INFO - URL Entered
+2018-01-11 19:44:43,464 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:44:43,814 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:44:44,079 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:44:44,284 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:44:44,444 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:44:44,606 - BaseClass -INFO - windows maximized
+2018-01-11 19:44:46,194 - BaseClass -INFO - URL Entered
+2018-01-11 19:45:09,017 - BaseClass -INFO - windows maximized
+2018-01-11 19:45:11,227 - BaseClass -INFO - URL Entered
+2018-01-11 19:45:17,328 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:45:17,458 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:45:17,600 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:45:17,697 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:45:17,837 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:46:03,737 - BaseClass -INFO - windows maximized
+2018-01-11 19:46:05,722 - BaseClass -INFO - URL Entered
+2018-01-11 19:46:07,110 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 19:46:07,346 - SignUpImplementation -INFO - Email entered
+2018-01-11 19:46:07,544 - SignUpImplementation -INFO - Password entered
+2018-01-11 19:46:07,676 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 19:46:07,827 - SignUpImplementation -INFO - Role Selected
+2018-01-11 19:46:07,983 - BaseClass -INFO - windows maximized
+2018-01-11 19:46:09,578 - BaseClass -INFO - URL Entered
+2018-01-11 20:33:44,334 - BaseClass -INFO - windows maximized
+2018-01-11 20:33:54,501 - BaseClass -INFO - URL Entered
+2018-01-11 20:34:43,840 - BaseClass -INFO - windows maximized
+2018-01-11 20:34:46,131 - BaseClass -INFO - URL Entered
+2018-01-11 20:37:51,959 - BaseClass -INFO - windows maximized
+2018-01-11 20:37:54,232 - BaseClass -INFO - URL Entered
+2018-01-11 20:37:55,652 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 20:37:55,922 - SignUpImplementation -INFO - Email entered
+2018-01-11 20:37:56,076 - SignUpImplementation -INFO - Password entered
+2018-01-11 20:37:56,222 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 20:37:56,408 - SignUpImplementation -INFO - Role Selected
+2018-01-11 20:39:05,754 - BaseClass -INFO - windows maximized
+2018-01-11 20:39:08,082 - BaseClass -INFO - URL Entered
+2018-01-11 20:39:09,519 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 20:39:09,731 - SignUpImplementation -INFO - Email entered
+2018-01-11 20:39:09,880 - SignUpImplementation -INFO - Password entered
+2018-01-11 20:39:10,044 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 20:39:10,204 - SignUpImplementation -INFO - Role Selected
+2018-01-11 20:39:45,722 - BaseClass -INFO - windows maximized
+2018-01-11 20:39:48,046 - BaseClass -INFO - URL Entered
+2018-01-11 20:39:49,915 - BaseClass -INFO - windows maximized
+2018-01-11 20:39:51,602 - BaseClass -INFO - URL Entered
+2018-01-11 20:40:24,867 - BaseClass -INFO - windows maximized
+2018-01-11 20:40:27,285 - BaseClass -INFO - URL Entered
+2018-01-11 20:40:28,705 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 20:40:28,941 - SignUpImplementation -INFO - Email entered
+2018-01-11 20:40:29,117 - SignUpImplementation -INFO - Password entered
+2018-01-11 20:40:29,288 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 20:40:29,514 - SignUpImplementation -INFO - Role Selected
+2018-01-11 20:40:29,697 - BaseClass -INFO - windows maximized
+2018-01-11 20:40:31,482 - BaseClass -INFO - URL Entered
+2018-01-11 20:42:16,334 - BaseClass -INFO - windows maximized
+2018-01-11 20:42:18,662 - BaseClass -INFO - URL Entered
+2018-01-11 20:42:24,090 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 20:42:24,290 - SignUpImplementation -INFO - Email entered
+2018-01-11 20:42:24,457 - SignUpImplementation -INFO - Password entered
+2018-01-11 20:42:24,656 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 20:42:24,829 - SignUpImplementation -INFO - Role Selected
+2018-01-11 20:42:24,998 - BaseClass -INFO - windows maximized
+2018-01-11 20:42:26,765 - BaseClass -INFO - URL Entered
+2018-01-11 20:42:31,246 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 20:42:31,442 - SignUpImplementation -INFO - Email entered
+2018-01-11 20:42:31,593 - SignUpImplementation -INFO - Password entered
+2018-01-11 20:42:31,725 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 20:42:31,869 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:02:47,402 - BaseClass -INFO - windows maximized
+2018-01-11 21:02:50,043 - BaseClass -INFO - URL Entered
+2018-01-11 21:02:55,352 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:02:55,559 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:02:55,717 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:02:55,860 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:02:56,026 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:02:56,203 - BaseClass -INFO - windows maximized
+2018-01-11 21:02:57,987 - BaseClass -INFO - URL Entered
+2018-01-11 21:03:02,538 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:03:02,770 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:03:02,932 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:03:03,071 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:03:03,251 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:06:19,607 - BaseClass -INFO - windows maximized
+2018-01-11 21:06:22,111 - BaseClass -INFO - URL Entered
+2018-01-11 21:06:25,356 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:06:25,551 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:06:25,706 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:06:25,856 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:06:26,018 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:06:26,195 - BaseClass -INFO - windows maximized
+2018-01-11 21:06:28,100 - BaseClass -INFO - URL Entered
+2018-01-11 21:06:30,583 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:06:30,766 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:06:30,953 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:06:31,089 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:06:31,256 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:08:28,041 - BaseClass -INFO - windows maximized
+2018-01-11 21:08:30,391 - BaseClass -INFO - URL Entered
+2018-01-11 21:08:33,683 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:08:33,884 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:08:34,059 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:08:34,196 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:08:34,353 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:08:34,531 - BaseClass -INFO - windows maximized
+2018-01-11 21:08:36,360 - BaseClass -INFO - URL Entered
+2018-01-11 21:08:38,875 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:08:39,129 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:08:39,281 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:08:39,403 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:08:39,551 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:19:58,132 - BaseClass -INFO - windows maximized
+2018-01-11 21:20:00,603 - BaseClass -INFO - URL Entered
+2018-01-11 21:20:04,301 - BaseClass -INFO - windows maximized
+2018-01-11 21:20:05,725 - BaseClass -INFO - URL Entered
+2018-01-11 21:20:22,429 - BaseClass -INFO - windows maximized
+2018-01-11 21:20:24,735 - BaseClass -INFO - URL Entered
+2018-01-11 21:20:28,013 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:20:28,245 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:20:28,400 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:20:28,570 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:20:28,746 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:20:28,946 - BaseClass -INFO - windows maximized
+2018-01-11 21:20:31,247 - BaseClass -INFO - URL Entered
+2018-01-11 21:20:33,796 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:20:34,001 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:20:34,178 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:20:34,315 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:20:34,480 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:21:57,303 - BaseClass -INFO - windows maximized
+2018-01-11 21:21:59,569 - BaseClass -INFO - URL Entered
+2018-01-11 21:22:02,906 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:22:03,078 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:22:03,223 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:22:03,367 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:22:03,489 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:22:04,013 - BaseClass -INFO - windows maximized
+2018-01-11 21:22:05,677 - BaseClass -INFO - URL Entered
+2018-01-11 21:22:08,157 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:22:08,278 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:22:08,404 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:22:08,563 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:22:08,663 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:32:55,845 - BaseClass -INFO - windows maximized
+2018-01-11 21:32:58,364 - BaseClass -INFO - URL Entered
+2018-01-11 21:33:01,829 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:33:02,071 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:33:02,295 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:33:02,447 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:33:02,654 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:33:02,811 - BaseClass -INFO - windows maximized
+2018-01-11 21:33:04,612 - BaseClass -INFO - URL Entered
+2018-01-11 21:33:07,119 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:33:07,318 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:33:07,493 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:33:07,621 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:33:07,775 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:40:49,433 - BaseClass -INFO - windows maximized
+2018-01-11 21:40:51,779 - BaseClass -INFO - URL Entered
+2018-01-11 21:40:55,105 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:40:55,349 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:40:55,497 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:40:55,641 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:40:55,812 - SignUpImplementation -INFO - Role Selected
+2018-01-11 21:40:55,974 - BaseClass -INFO - windows maximized
+2018-01-11 21:40:57,814 - BaseClass -INFO - URL Entered
+2018-01-11 21:41:00,294 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 21:41:00,517 - SignUpImplementation -INFO - Email entered
+2018-01-11 21:41:00,664 - SignUpImplementation -INFO - Password entered
+2018-01-11 21:41:00,791 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 21:41:00,935 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:08:21,719 - BaseClass -INFO - windows maximized
+2018-01-11 22:08:24,130 - BaseClass -INFO - URL Entered
+2018-01-11 22:08:27,468 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:08:27,713 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:08:27,882 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:08:28,028 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:08:28,198 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:08:28,363 - BaseClass -INFO - windows maximized
+2018-01-11 22:08:30,376 - BaseClass -INFO - URL Entered
+2018-01-11 22:08:32,962 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:08:33,203 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:08:33,350 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:08:33,493 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:08:33,674 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:12:53,639 - BaseClass -INFO - windows maximized
+2018-01-11 22:12:55,860 - BaseClass -INFO - URL Entered
+2018-01-11 22:12:59,104 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:12:59,302 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:12:59,454 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:12:59,598 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:12:59,772 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:12:59,928 - BaseClass -INFO - windows maximized
+2018-01-11 22:13:01,887 - BaseClass -INFO - URL Entered
+2018-01-11 22:13:04,398 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:13:04,618 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:13:04,793 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:13:04,915 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:13:05,068 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:48:44,568 - BaseClass -INFO - windows maximized
+2018-01-11 22:48:47,033 - BaseClass -INFO - URL Entered
+2018-01-11 22:48:50,378 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:48:50,615 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:48:50,784 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:48:50,954 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:48:51,168 - SignUpImplementation -INFO - Role Selected
+2018-01-11 22:48:51,321 - BaseClass -INFO - windows maximized
+2018-01-11 22:48:53,203 - BaseClass -INFO - URL Entered
+2018-01-11 22:48:55,719 - SignUpImplementation -INFO - Full Name entered
+2018-01-11 22:48:55,936 - SignUpImplementation -INFO - Email entered
+2018-01-11 22:48:56,106 - SignUpImplementation -INFO - Password entered
+2018-01-11 22:48:56,225 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-11 22:48:56,369 - SignUpImplementation -INFO - Role Selected
+2018-01-12 09:16:13,189 - BaseClass -INFO - windows maximized
+2018-01-12 09:16:15,483 - BaseClass -INFO - URL Entered
+2018-01-12 09:16:18,736 - LoginImplementation -INFO - Username entered
+2018-01-12 09:16:18,843 - LoginImplementation -INFO - password entered
+2018-01-12 09:16:19,021 - LoginImplementation -INFO - Login button clicked
+2018-01-12 09:16:50,283 - BaseClass -INFO - windows maximized
+2018-01-12 09:16:52,685 - BaseClass -INFO - URL Entered
+2018-01-12 09:16:55,785 - LoginImplementation -INFO - Username entered
+2018-01-12 09:16:55,929 - LoginImplementation -INFO - password entered
+2018-01-12 09:16:56,097 - LoginImplementation -INFO - Login button clicked
+2018-01-12 09:36:46,499 - BaseClass -INFO - windows maximized
+2018-01-12 09:36:48,828 - BaseClass -INFO - URL Entered
+2018-01-12 09:36:52,341 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 09:36:52,572 - SignUpImplementation -INFO - Email entered
+2018-01-12 09:36:52,746 - SignUpImplementation -INFO - Password entered
+2018-01-12 09:36:52,884 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 09:36:53,042 - SignUpImplementation -INFO - Role Selected
+2018-01-12 09:36:53,213 - BaseClass -INFO - windows maximized
+2018-01-12 09:36:55,109 - BaseClass -INFO - URL Entered
+2018-01-12 09:36:57,652 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 09:36:57,828 - SignUpImplementation -INFO - Email entered
+2018-01-12 09:36:57,992 - SignUpImplementation -INFO - Password entered
+2018-01-12 09:36:58,112 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 09:36:58,261 - SignUpImplementation -INFO - Role Selected
+2018-01-12 12:49:06,037 - BaseClass -INFO - windows maximized
+2018-01-12 12:49:08,312 - BaseClass -INFO - URL Entered
+2018-01-12 14:11:33,079 - BaseClass -INFO - windows maximized
+2018-01-12 14:11:35,386 - BaseClass -INFO - URL Entered
+2018-01-12 14:11:38,729 - BaseClass -INFO - windows maximized
+2018-01-12 14:11:40,840 - BaseClass -INFO - URL Entered
+2018-01-12 14:15:38,945 - BaseClass -INFO - windows maximized
+2018-01-12 14:15:45,313 - BaseClass -INFO - URL Entered
+2018-01-12 14:15:48,901 - BaseClass -INFO - windows maximized
+2018-01-12 14:15:50,318 - BaseClass -INFO - URL Entered
+2018-01-12 14:15:53,062 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:15:53,318 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:15:53,492 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:15:53,631 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:15:53,812 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:16:17,803 - BaseClass -INFO - windows maximized
+2018-01-12 14:16:20,241 - BaseClass -INFO - URL Entered
+2018-01-12 14:16:23,655 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:16:23,941 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:16:24,193 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:16:24,410 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:16:24,588 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:16:24,792 - BaseClass -INFO - windows maximized
+2018-01-12 14:16:26,703 - BaseClass -INFO - URL Entered
+2018-01-12 14:16:29,304 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:16:29,544 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:16:29,721 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:16:29,865 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:16:30,016 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:30:41,009 - BaseClass -INFO - windows maximized
+2018-01-12 14:30:43,384 - BaseClass -INFO - URL Entered
+2018-01-12 14:30:46,788 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:30:47,035 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:30:47,268 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:30:47,462 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:30:47,668 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:30:47,835 - BaseClass -INFO - windows maximized
+2018-01-12 14:30:49,672 - BaseClass -INFO - URL Entered
+2018-01-12 14:30:52,225 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:30:52,487 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:30:52,680 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:30:52,859 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:30:53,053 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:34:54,757 - BaseClass -INFO - windows maximized
+2018-01-12 14:34:57,515 - BaseClass -INFO - URL Entered
+2018-01-12 14:35:01,347 - BaseClass -INFO - windows maximized
+2018-01-12 14:35:02,927 - BaseClass -INFO - URL Entered
+2018-01-12 14:35:05,530 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:35:05,718 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:35:05,935 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:35:06,115 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:35:06,369 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:35:06,575 - BaseClass -INFO - windows maximized
+2018-01-12 14:35:07,995 - BaseClass -INFO - URL Entered
+2018-01-12 14:41:53,590 - BaseClass -INFO - windows maximized
+2018-01-12 14:41:56,065 - BaseClass -INFO - URL Entered
+2018-01-12 14:41:59,770 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:42:00,003 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:42:00,284 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:42:00,500 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:42:00,739 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:42:01,225 - BaseClass -INFO - windows maximized
+2018-01-12 14:42:03,062 - BaseClass -INFO - URL Entered
+2018-01-12 14:42:05,657 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:42:05,892 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:42:06,087 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:42:06,288 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:42:06,481 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:42:06,619 - BaseClass -INFO - windows maximized
+2018-01-12 14:42:07,731 - BaseClass -INFO - URL Entered
+2018-01-12 14:42:10,239 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:42:10,466 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:42:10,939 - BaseClass -INFO - windows maximized
+2018-01-12 14:42:11,838 - BaseClass -INFO - URL Entered
+2018-01-12 14:42:14,808 - BaseClass -INFO - windows maximized
+2018-01-12 14:42:15,658 - BaseClass -INFO - URL Entered
+2018-01-12 14:42:18,159 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:42:18,392 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:42:18,617 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:42:19,094 - BaseClass -INFO - windows maximized
+2018-01-12 14:42:19,964 - BaseClass -INFO - URL Entered
+2018-01-12 14:42:22,483 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:42:22,716 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:42:22,917 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:42:23,110 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:48:11,939 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:14,504 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:18,168 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:20,083 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:22,701 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:48:22,948 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:48:23,136 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:48:23,348 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:48:23,556 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:48:23,713 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:24,936 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:27,405 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:48:27,617 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:48:28,086 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:28,934 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:31,827 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:32,750 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:35,208 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:48:35,416 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:48:35,660 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:48:36,140 - BaseClass -INFO - windows maximized
+2018-01-12 14:48:37,014 - BaseClass -INFO - URL Entered
+2018-01-12 14:48:39,525 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:48:39,741 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:48:39,934 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:48:40,127 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:53:49,252 - BaseClass -INFO - windows maximized
+2018-01-12 14:53:51,784 - BaseClass -INFO - URL Entered
+2018-01-12 14:53:55,165 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:53:55,420 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:53:55,657 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:53:55,843 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:53:56,050 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:53:56,224 - BaseClass -INFO - windows maximized
+2018-01-12 14:53:58,270 - BaseClass -INFO - URL Entered
+2018-01-12 14:54:00,888 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:54:01,113 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:54:01,372 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:54:01,573 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:54:01,771 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:54:01,912 - BaseClass -INFO - windows maximized
+2018-01-12 14:54:03,138 - BaseClass -INFO - URL Entered
+2018-01-12 14:54:05,663 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:54:05,909 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:54:06,374 - BaseClass -INFO - windows maximized
+2018-01-12 14:54:07,283 - BaseClass -INFO - URL Entered
+2018-01-12 14:54:10,235 - BaseClass -INFO - windows maximized
+2018-01-12 14:54:11,106 - BaseClass -INFO - URL Entered
+2018-01-12 14:54:13,592 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:54:13,822 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:54:14,039 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:54:14,527 - BaseClass -INFO - windows maximized
+2018-01-12 14:54:15,387 - BaseClass -INFO - URL Entered
+2018-01-12 14:54:17,881 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:54:18,107 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:54:18,313 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:54:18,507 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:55:59,330 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:01,696 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:05,136 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:56:05,473 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:56:05,754 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:56:05,948 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:56:06,156 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:56:06,319 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:08,195 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:10,800 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:56:11,056 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:56:11,252 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:56:11,440 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 14:56:11,630 - SignUpImplementation -INFO - Role Selected
+2018-01-12 14:56:11,778 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:12,903 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:15,392 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:56:15,605 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:56:16,174 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:17,051 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:19,941 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:20,816 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:23,379 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:56:23,633 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:56:23,857 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:56:24,276 - BaseClass -INFO - windows maximized
+2018-01-12 14:56:25,140 - BaseClass -INFO - URL Entered
+2018-01-12 14:56:27,695 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 14:56:27,930 - SignUpImplementation -INFO - Email entered
+2018-01-12 14:56:28,121 - SignUpImplementation -INFO - Password entered
+2018-01-12 14:56:28,319 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:00:33,159 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:35,551 - BaseClass -INFO - URL Entered
+2018-01-12 15:00:38,947 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:00:39,169 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:00:39,399 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:00:39,576 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:00:39,781 - SignUpImplementation -INFO - Role Selected
+2018-01-12 15:00:39,951 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:41,891 - BaseClass -INFO - URL Entered
+2018-01-12 15:00:44,436 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:00:44,669 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:00:44,868 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:00:45,076 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:00:45,278 - SignUpImplementation -INFO - Role Selected
+2018-01-12 15:00:45,420 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:46,570 - BaseClass -INFO - URL Entered
+2018-01-12 15:00:49,069 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:00:49,279 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:00:49,778 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:50,661 - BaseClass -INFO - URL Entered
+2018-01-12 15:00:53,578 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:54,548 - BaseClass -INFO - URL Entered
+2018-01-12 15:00:57,036 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:00:57,249 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:00:57,491 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:00:57,943 - BaseClass -INFO - windows maximized
+2018-01-12 15:00:58,861 - BaseClass -INFO - URL Entered
+2018-01-12 15:01:01,388 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:01:01,714 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:01:01,956 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:01:02,161 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:14:45,033 - BaseClass -INFO - windows maximized
+2018-01-12 15:14:47,500 - BaseClass -INFO - URL Entered
+2018-01-12 15:14:50,963 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:14:51,199 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:14:51,460 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:14:51,644 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:14:51,858 - SignUpImplementation -INFO - Role Selected
+2018-01-12 15:14:52,050 - BaseClass -INFO - windows maximized
+2018-01-12 15:14:53,947 - BaseClass -INFO - URL Entered
+2018-01-12 15:14:56,560 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:14:56,772 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:14:56,972 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:14:57,160 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 15:14:57,363 - SignUpImplementation -INFO - Role Selected
+2018-01-12 15:14:57,520 - BaseClass -INFO - windows maximized
+2018-01-12 15:14:58,711 - BaseClass -INFO - URL Entered
+2018-01-12 15:15:01,243 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:15:01,512 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:15:01,959 - BaseClass -INFO - windows maximized
+2018-01-12 15:15:03,017 - BaseClass -INFO - URL Entered
+2018-01-12 15:15:05,986 - BaseClass -INFO - windows maximized
+2018-01-12 15:15:06,951 - BaseClass -INFO - URL Entered
+2018-01-12 15:15:09,446 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:15:09,672 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:15:09,906 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:15:10,315 - BaseClass -INFO - windows maximized
+2018-01-12 15:15:11,205 - BaseClass -INFO - URL Entered
+2018-01-12 15:15:13,757 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 15:15:13,988 - SignUpImplementation -INFO - Email entered
+2018-01-12 15:15:14,186 - SignUpImplementation -INFO - Password entered
+2018-01-12 15:15:14,384 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:09:02,306 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:13,356 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:16,922 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:18,399 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:20,985 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:09:21,179 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:09:21,368 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:09:21,551 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:09:21,753 - SignUpImplementation -INFO - Role Selected
+2018-01-12 16:09:21,925 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:22,821 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:25,303 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:09:25,466 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:09:25,959 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:26,805 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:29,675 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:30,544 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:33,054 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:09:33,249 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:09:33,460 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:09:33,893 - BaseClass -INFO - windows maximized
+2018-01-12 16:09:34,773 - BaseClass -INFO - URL Entered
+2018-01-12 16:09:37,297 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:09:37,526 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:09:37,731 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:09:37,914 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:10:49,529 - BaseClass -INFO - windows maximized
+2018-01-12 16:10:51,917 - BaseClass -INFO - URL Entered
+2018-01-12 16:10:55,919 - BaseClass -INFO - windows maximized
+2018-01-12 16:10:57,392 - BaseClass -INFO - URL Entered
+2018-01-12 16:11:00,081 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:11:00,287 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:11:00,477 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:11:00,659 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:11:00,879 - SignUpImplementation -INFO - Role Selected
+2018-01-12 16:11:01,051 - BaseClass -INFO - windows maximized
+2018-01-12 16:11:02,260 - BaseClass -INFO - URL Entered
+2018-01-12 16:11:04,823 - BaseClass -INFO - windows maximized
+2018-01-12 16:11:05,757 - BaseClass -INFO - URL Entered
+2018-01-12 16:11:08,255 - BaseClass -INFO - windows maximized
+2018-01-12 16:11:09,225 - BaseClass -INFO - URL Entered
+2018-01-12 16:11:11,767 - BaseClass -INFO - windows maximized
+2018-01-12 16:11:12,736 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:22,148 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:24,414 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:27,762 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:26:27,959 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:26:28,141 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:26:28,326 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:26:28,555 - SignUpImplementation -INFO - Role Selected
+2018-01-12 16:26:28,727 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:30,623 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:33,151 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:26:33,319 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:26:33,504 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:26:33,685 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:26:33,863 - SignUpImplementation -INFO - Role Selected
+2018-01-12 16:26:34,001 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:35,083 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:37,591 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:26:37,753 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:26:38,272 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:39,162 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:42,076 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:43,042 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:45,491 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:26:45,683 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:26:45,967 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:26:46,376 - BaseClass -INFO - windows maximized
+2018-01-12 16:26:47,225 - BaseClass -INFO - URL Entered
+2018-01-12 16:26:49,731 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:26:49,899 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:26:50,099 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:26:50,275 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:50:28,241 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:36,256 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:39,607 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:40,985 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:43,468 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:50:43,648 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:50:43,856 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:50:44,038 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-12 16:50:44,241 - SignUpImplementation -INFO - Role Selected
+2018-01-12 16:50:44,376 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:45,121 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:47,543 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:50:47,713 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:50:48,166 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:48,901 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:51,675 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:52,467 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:54,923 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:50:55,146 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:50:55,323 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:50:55,732 - BaseClass -INFO - windows maximized
+2018-01-12 16:50:56,485 - BaseClass -INFO - URL Entered
+2018-01-12 16:50:58,894 - SignUpImplementation -INFO - Full Name entered
+2018-01-12 16:50:59,044 - SignUpImplementation -INFO - Email entered
+2018-01-12 16:50:59,325 - SignUpImplementation -INFO - Password entered
+2018-01-12 16:50:59,466 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:26:32,647 - BaseClass -INFO - windows maximized
+2018-01-13 15:26:43,643 - BaseClass -INFO - URL Entered
+2018-01-13 15:26:47,275 - BaseClass -INFO - windows maximized
+2018-01-13 15:26:48,745 - BaseClass -INFO - URL Entered
+2018-01-13 15:26:51,319 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-13 15:26:51,749 - BaseClass -INFO - windows maximized
+2018-01-13 15:26:52,609 - BaseClass -INFO - URL Entered
+2018-01-13 15:26:55,119 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:26:55,344 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:26:55,393 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-13 15:26:55,852 - BaseClass -INFO - windows maximized
+2018-01-13 15:26:56,734 - BaseClass -INFO - URL Entered
+2018-01-13 15:26:59,211 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:26:59,408 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:26:59,657 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:26:59,706 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-13 15:27:00,127 - BaseClass -INFO - windows maximized
+2018-01-13 15:27:01,088 - BaseClass -INFO - URL Entered
+2018-01-13 15:27:03,566 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:27:03,765 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:27:03,960 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:27:04,153 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:27:04,201 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-13 15:27:04,597 - BaseClass -INFO - windows maximized
+2018-01-13 15:27:05,476 - BaseClass -INFO - URL Entered
+2018-01-13 15:27:07,941 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:27:08,124 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:27:08,331 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:27:08,504 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:27:08,702 - SignUpImplementation -INFO - Role Selected
+2018-01-13 15:29:08,314 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:10,595 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:13,995 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:29:14,235 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:29:14,452 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:29:14,645 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:29:14,855 - SignUpImplementation -INFO - Role Selected
+2018-01-13 15:29:15,028 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:16,464 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:19,034 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-13 15:29:19,493 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:20,492 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:22,972 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:29:23,165 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:29:23,217 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-13 15:29:23,606 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:24,476 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:26,970 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:29:27,171 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:29:27,402 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:29:27,443 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-13 15:29:27,824 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:28,711 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:31,203 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:29:31,428 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:29:31,636 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:29:31,826 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:29:31,878 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-13 15:29:32,290 - BaseClass -INFO - windows maximized
+2018-01-13 15:29:33,138 - BaseClass -INFO - URL Entered
+2018-01-13 15:29:35,617 - SignUpImplementation -INFO - Full Name entered
+2018-01-13 15:29:35,829 - SignUpImplementation -INFO - Email entered
+2018-01-13 15:29:36,025 - SignUpImplementation -INFO - Password entered
+2018-01-13 15:29:36,198 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-13 15:29:36,435 - SignUpImplementation -INFO - Role Selected
+2018-01-14 00:23:36,310 - BaseClass -INFO - windows maximized
+2018-01-14 00:23:58,972 - BaseClass -INFO - URL Entered
+2018-01-14 00:24:44,357 - BaseClass -INFO - windows maximized
+2018-01-14 00:24:46,926 - BaseClass -INFO - URL Entered
+2018-01-14 00:29:56,302 - BaseClass -INFO - windows maximized
+2018-01-14 00:29:58,931 - BaseClass -INFO - URL Entered
+2018-01-14 00:32:16,295 - BaseClass -INFO - windows maximized
+2018-01-14 00:32:19,896 - BaseClass -INFO - URL Entered
+2018-01-14 00:32:28,724 - BaseClass -INFO - windows maximized
+2018-01-14 00:32:30,112 - BaseClass -INFO - URL Entered
+2018-01-14 00:32:37,654 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 00:32:38,218 - BaseClass -INFO - windows maximized
+2018-01-14 00:32:39,986 - BaseClass -INFO - URL Entered
+2018-01-14 00:32:47,576 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 00:32:47,889 - SignUpImplementation -INFO - Email entered
+2018-01-14 00:32:47,937 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 00:32:48,388 - BaseClass -INFO - windows maximized
+2018-01-14 00:32:49,214 - BaseClass -INFO - URL Entered
+2018-01-14 00:32:56,817 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 00:32:56,954 - SignUpImplementation -INFO - Email entered
+2018-01-14 00:32:57,124 - SignUpImplementation -INFO - Password entered
+2018-01-14 00:32:57,166 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 00:32:57,599 - BaseClass -INFO - windows maximized
+2018-01-14 00:32:58,693 - BaseClass -INFO - URL Entered
+2018-01-14 00:33:06,230 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 00:33:06,391 - SignUpImplementation -INFO - Email entered
+2018-01-14 00:33:06,536 - SignUpImplementation -INFO - Password entered
+2018-01-14 00:33:06,669 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 00:33:06,722 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 00:33:07,220 - BaseClass -INFO - windows maximized
+2018-01-14 00:33:08,190 - BaseClass -INFO - URL Entered
+2018-01-14 00:33:10,859 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 00:33:10,971 - SignUpImplementation -INFO - Email entered
+2018-01-14 00:33:11,113 - SignUpImplementation -INFO - Password entered
+2018-01-14 00:33:11,423 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 00:33:11,677 - SignUpImplementation -INFO - Role Selected
+2018-01-14 12:23:49,293 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:01,056 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:04,847 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:06,725 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:09,694 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 12:24:10,182 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:11,281 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:14,333 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 12:24:14,571 - SignUpImplementation -INFO - Email entered
+2018-01-14 12:24:14,620 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 12:24:15,140 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:16,143 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:19,087 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 12:24:19,367 - SignUpImplementation -INFO - Email entered
+2018-01-14 12:24:19,664 - SignUpImplementation -INFO - Password entered
+2018-01-14 12:24:19,716 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 12:24:20,136 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:21,376 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:24,151 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 12:24:24,386 - SignUpImplementation -INFO - Email entered
+2018-01-14 12:24:24,638 - SignUpImplementation -INFO - Password entered
+2018-01-14 12:24:24,841 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 12:24:24,899 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 12:24:25,398 - BaseClass -INFO - windows maximized
+2018-01-14 12:24:26,409 - BaseClass -INFO - URL Entered
+2018-01-14 12:24:29,231 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 12:24:29,432 - SignUpImplementation -INFO - Email entered
+2018-01-14 12:24:29,682 - SignUpImplementation -INFO - Password entered
+2018-01-14 12:24:29,905 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 12:24:30,154 - SignUpImplementation -INFO - Role Selected
+2018-01-14 14:53:17,014 - BaseClass -INFO - windows maximized
+2018-01-14 14:53:31,057 - BaseClass -INFO - URL Entered
+2018-01-14 14:54:10,303 - BaseClass -INFO - windows maximized
+2018-01-14 14:54:21,462 - BaseClass -INFO - URL Entered
+2018-01-14 19:16:55,551 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:06,501 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:10,241 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:11,725 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:14,399 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 19:17:14,773 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:15,592 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:18,149 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:17:18,411 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:17:18,465 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 19:17:18,898 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:19,766 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:22,252 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:17:22,477 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:17:22,793 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:17:22,847 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 19:17:23,197 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:24,140 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:26,686 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:17:26,889 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:17:27,098 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:17:27,345 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:17:27,432 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 19:17:27,812 - BaseClass -INFO - windows maximized
+2018-01-14 19:17:28,740 - BaseClass -INFO - URL Entered
+2018-01-14 19:17:31,230 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:17:31,438 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:17:31,647 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:17:31,822 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:17:32,025 - SignUpImplementation -INFO - Role Selected
+2018-01-14 19:27:39,166 - BaseClass -INFO - windows maximized
+2018-01-14 19:27:41,731 - BaseClass -INFO - URL Entered
+2018-01-14 19:27:45,252 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:27:45,536 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:27:45,774 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:27:45,963 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:27:46,170 - SignUpImplementation -INFO - Role Selected
+2018-01-14 19:27:46,334 - BaseClass -INFO - windows maximized
+2018-01-14 19:27:47,889 - BaseClass -INFO - URL Entered
+2018-01-14 19:27:50,466 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 19:27:50,900 - BaseClass -INFO - windows maximized
+2018-01-14 19:27:51,720 - BaseClass -INFO - URL Entered
+2018-01-14 19:27:54,326 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:27:54,569 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:27:54,623 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 19:27:55,049 - BaseClass -INFO - windows maximized
+2018-01-14 19:27:55,900 - BaseClass -INFO - URL Entered
+2018-01-14 19:27:58,586 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:27:58,897 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:27:59,122 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:27:59,173 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 19:27:59,617 - BaseClass -INFO - windows maximized
+2018-01-14 19:28:00,495 - BaseClass -INFO - URL Entered
+2018-01-14 19:28:16,736 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:35,326 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:40,368 - BaseClass -INFO - URL Entered
+2018-01-14 19:29:43,759 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:29:43,997 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:29:44,223 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:29:44,489 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:29:44,745 - SignUpImplementation -INFO - Role Selected
+2018-01-14 19:29:44,956 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:46,494 - BaseClass -INFO - URL Entered
+2018-01-14 19:29:49,117 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 19:29:49,553 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:50,411 - BaseClass -INFO - URL Entered
+2018-01-14 19:29:52,952 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:29:53,193 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:29:53,252 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 19:29:53,665 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:54,541 - BaseClass -INFO - URL Entered
+2018-01-14 19:29:57,079 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:29:57,316 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:29:57,550 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:29:57,588 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 19:29:58,001 - BaseClass -INFO - windows maximized
+2018-01-14 19:29:58,870 - BaseClass -INFO - URL Entered
+2018-01-14 19:30:01,330 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:30:01,634 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:30:01,903 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:30:02,154 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:30:02,221 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 19:30:02,609 - BaseClass -INFO - windows maximized
+2018-01-14 19:30:03,720 - BaseClass -INFO - URL Entered
+2018-01-14 19:30:06,208 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 19:30:06,436 - SignUpImplementation -INFO - Email entered
+2018-01-14 19:30:06,627 - SignUpImplementation -INFO - Password entered
+2018-01-14 19:30:06,798 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 19:30:06,990 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:15:40,179 - BaseClass -INFO - windows maximized
+2018-01-14 21:15:49,067 - BaseClass -INFO - URL Entered
+2018-01-14 21:15:52,481 - BaseClass -INFO - windows maximized
+2018-01-14 21:15:53,798 - BaseClass -INFO - URL Entered
+2018-01-14 21:15:56,286 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:15:56,650 - BaseClass -INFO - windows maximized
+2018-01-14 21:15:57,404 - BaseClass -INFO - URL Entered
+2018-01-14 21:15:59,861 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:16:00,038 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:16:00,071 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:16:00,432 - BaseClass -INFO - windows maximized
+2018-01-14 21:16:01,309 - BaseClass -INFO - URL Entered
+2018-01-14 21:16:03,733 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:16:03,980 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:16:04,200 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:16:04,240 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 21:16:04,638 - BaseClass -INFO - windows maximized
+2018-01-14 21:16:05,438 - BaseClass -INFO - URL Entered
+2018-01-14 21:16:08,010 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:16:08,203 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:16:08,380 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:16:08,578 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:16:08,647 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 21:16:09,006 - BaseClass -INFO - windows maximized
+2018-01-14 21:16:10,074 - BaseClass -INFO - URL Entered
+2018-01-14 21:16:12,621 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:16:12,856 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:16:13,061 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:16:13,228 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:16:13,447 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:24:40,151 - BaseClass -INFO - windows maximized
+2018-01-14 21:24:42,422 - BaseClass -INFO - URL Entered
+2018-01-14 21:24:45,892 - BaseClass -INFO - windows maximized
+2018-01-14 21:24:47,128 - BaseClass -INFO - URL Entered
+2018-01-14 21:24:49,599 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:24:49,969 - BaseClass -INFO - windows maximized
+2018-01-14 21:24:50,716 - BaseClass -INFO - URL Entered
+2018-01-14 21:24:53,202 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:24:53,370 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:24:53,413 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:24:53,771 - BaseClass -INFO - windows maximized
+2018-01-14 21:24:54,486 - BaseClass -INFO - URL Entered
+2018-01-14 21:24:56,884 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:24:57,024 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:24:57,236 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:24:57,266 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 21:24:57,640 - BaseClass -INFO - windows maximized
+2018-01-14 21:24:58,371 - BaseClass -INFO - URL Entered
+2018-01-14 21:25:01,069 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:25:01,220 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:25:01,382 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:25:01,523 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:25:01,571 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 21:25:01,904 - BaseClass -INFO - windows maximized
+2018-01-14 21:25:02,642 - BaseClass -INFO - URL Entered
+2018-01-14 21:25:05,064 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:25:05,207 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:25:05,350 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:25:05,520 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:25:05,712 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:44:40,968 - BaseClass -INFO - windows maximized
+2018-01-14 21:44:42,963 - BaseClass -INFO - URL Entered
+2018-01-14 21:44:51,101 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:44:51,245 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:44:51,373 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:44:51,493 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:44:51,673 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:45:32,948 - BaseClass -INFO - windows maximized
+2018-01-14 21:45:34,997 - BaseClass -INFO - URL Entered
+2018-01-14 21:45:38,222 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:45:38,406 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:45:38,617 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:45:38,751 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:45:38,937 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:45:39,075 - BaseClass -INFO - windows maximized
+2018-01-14 21:45:40,632 - BaseClass -INFO - URL Entered
+2018-01-14 21:45:43,063 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:45:43,453 - BaseClass -INFO - windows maximized
+2018-01-14 21:45:44,166 - BaseClass -INFO - URL Entered
+2018-01-14 21:45:46,595 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:45:46,753 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:45:46,780 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:45:47,117 - BaseClass -INFO - windows maximized
+2018-01-14 21:45:47,885 - BaseClass -INFO - URL Entered
+2018-01-14 21:45:55,267 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:45:55,384 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:45:55,536 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:45:55,558 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 21:45:56,071 - BaseClass -INFO - windows maximized
+2018-01-14 21:45:56,836 - BaseClass -INFO - URL Entered
+2018-01-14 21:46:04,221 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:46:04,336 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:46:04,457 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:46:04,574 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:46:04,614 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 21:46:05,020 - BaseClass -INFO - windows maximized
+2018-01-14 21:46:05,791 - BaseClass -INFO - URL Entered
+2018-01-14 21:46:13,254 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:46:13,381 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:46:13,524 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:46:13,644 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:46:13,802 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:48:07,141 - BaseClass -INFO - windows maximized
+2018-01-14 21:48:09,385 - BaseClass -INFO - URL Entered
+2018-01-14 21:48:17,523 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:48:17,691 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:48:17,839 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:48:17,954 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:48:18,161 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:48:43,960 - BaseClass -INFO - windows maximized
+2018-01-14 21:48:46,051 - BaseClass -INFO - URL Entered
+2018-01-14 21:48:49,147 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:48:49,310 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:48:49,470 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:48:49,641 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:48:49,818 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:48:49,961 - BaseClass -INFO - windows maximized
+2018-01-14 21:48:51,464 - BaseClass -INFO - URL Entered
+2018-01-14 21:48:53,914 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:48:54,302 - BaseClass -INFO - windows maximized
+2018-01-14 21:48:55,052 - BaseClass -INFO - URL Entered
+2018-01-14 21:48:57,496 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:48:57,640 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:48:57,669 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:48:58,017 - BaseClass -INFO - windows maximized
+2018-01-14 21:48:58,754 - BaseClass -INFO - URL Entered
+2018-01-14 21:49:01,191 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:49:01,395 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:49:01,623 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:49:01,653 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 21:49:02,026 - BaseClass -INFO - windows maximized
+2018-01-14 21:49:02,788 - BaseClass -INFO - URL Entered
+2018-01-14 21:49:05,192 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:49:05,331 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:49:05,495 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:49:05,651 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:49:05,697 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 21:49:06,058 - BaseClass -INFO - windows maximized
+2018-01-14 21:49:06,908 - BaseClass -INFO - URL Entered
+2018-01-14 21:49:09,335 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:49:09,464 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:49:09,613 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:49:09,754 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:49:09,940 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:50:04,505 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:06,711 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:10,111 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:50:10,294 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:50:10,480 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:50:10,658 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:50:10,858 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:50:10,997 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:12,271 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:14,721 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:50:15,106 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:15,837 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:23,227 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:50:23,341 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:50:23,367 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:50:23,815 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:24,976 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:32,375 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:50:32,488 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:50:32,632 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:50:32,655 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 21:50:33,129 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:34,357 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:41,784 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:50:41,895 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:50:42,016 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:50:42,133 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:50:42,175 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 21:50:42,615 - BaseClass -INFO - windows maximized
+2018-01-14 21:50:43,393 - BaseClass -INFO - URL Entered
+2018-01-14 21:50:50,779 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:50:50,882 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:50:51,014 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:50:51,122 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:50:51,285 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:52:50,461 - BaseClass -INFO - windows maximized
+2018-01-14 21:52:52,600 - BaseClass -INFO - URL Entered
+2018-01-14 21:52:55,697 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:52:55,872 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:52:56,042 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:52:56,182 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:52:56,387 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:52:56,522 - BaseClass -INFO - windows maximized
+2018-01-14 21:52:58,133 - BaseClass -INFO - URL Entered
+2018-01-14 21:53:00,611 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:53:01,011 - BaseClass -INFO - windows maximized
+2018-01-14 21:53:01,769 - BaseClass -INFO - URL Entered
+2018-01-14 21:53:09,180 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:53:09,296 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:53:09,325 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:53:09,824 - BaseClass -INFO - windows maximized
+2018-01-14 21:53:11,185 - BaseClass -INFO - URL Entered
+2018-01-14 21:53:27,340 - BaseClass -INFO - windows maximized
+2018-01-14 21:53:55,495 - BaseClass -INFO - windows maximized
+2018-01-14 21:53:57,559 - BaseClass -INFO - URL Entered
+2018-01-14 21:54:00,793 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:54:00,967 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:54:01,128 - SignUpImplementation -INFO - Password entered
+2018-01-14 21:54:01,290 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 21:54:01,496 - SignUpImplementation -INFO - Role Selected
+2018-01-14 21:54:01,684 - BaseClass -INFO - windows maximized
+2018-01-14 21:54:03,395 - BaseClass -INFO - URL Entered
+2018-01-14 21:54:05,845 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 21:54:06,248 - BaseClass -INFO - windows maximized
+2018-01-14 21:54:06,992 - BaseClass -INFO - URL Entered
+2018-01-14 21:54:14,515 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 21:54:14,640 - SignUpImplementation -INFO - Email entered
+2018-01-14 21:54:14,666 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 21:54:15,171 - BaseClass -INFO - windows maximized
+2018-01-14 21:54:16,096 - BaseClass -INFO - URL Entered
+2018-01-14 21:54:32,253 - BaseClass -INFO - windows maximized
+2018-01-14 22:14:49,199 - BaseClass -INFO - windows maximized
+2018-01-14 22:14:51,644 - BaseClass -INFO - URL Entered
+2018-01-14 22:14:55,463 - BaseClass -INFO - windows maximized
+2018-01-14 22:14:56,851 - BaseClass -INFO - URL Entered
+2018-01-14 22:14:59,433 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:14:59,878 - BaseClass -INFO - windows maximized
+2018-01-14 22:15:00,960 - BaseClass -INFO - URL Entered
+2018-01-14 22:15:08,576 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:15:08,804 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:15:08,840 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 22:15:09,388 - BaseClass -INFO - windows maximized
+2018-01-14 22:15:10,769 - BaseClass -INFO - URL Entered
+2018-01-14 22:15:18,424 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:15:18,552 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:15:18,706 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:15:18,737 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 22:15:19,326 - BaseClass -INFO - windows maximized
+2018-01-14 22:15:21,234 - BaseClass -INFO - URL Entered
+2018-01-14 22:15:28,751 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:15:28,882 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:15:29,026 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:15:29,158 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:15:29,201 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 22:15:29,758 - BaseClass -INFO - windows maximized
+2018-01-14 22:15:30,594 - BaseClass -INFO - URL Entered
+2018-01-14 22:15:38,175 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:15:38,431 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:15:38,578 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:15:38,704 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:15:38,901 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:17:53,793 - BaseClass -INFO - windows maximized
+2018-01-14 22:17:56,183 - BaseClass -INFO - URL Entered
+2018-01-14 22:17:59,554 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:17:59,765 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:17:59,951 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:18:00,155 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:18:00,354 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:18:00,542 - BaseClass -INFO - windows maximized
+2018-01-14 22:18:02,545 - BaseClass -INFO - URL Entered
+2018-01-14 22:18:05,099 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:18:05,547 - BaseClass -INFO - windows maximized
+2018-01-14 22:18:06,386 - BaseClass -INFO - URL Entered
+2018-01-14 22:18:08,865 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:18:09,037 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:18:09,072 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 22:18:09,444 - BaseClass -INFO - windows maximized
+2018-01-14 22:18:10,287 - BaseClass -INFO - URL Entered
+2018-01-14 22:18:12,851 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:18:13,079 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:18:13,283 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:18:13,313 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 22:18:13,724 - BaseClass -INFO - windows maximized
+2018-01-14 22:18:14,629 - BaseClass -INFO - URL Entered
+2018-01-14 22:18:17,114 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:18:17,305 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:18:17,498 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:18:17,664 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:18:17,710 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 22:18:18,123 - BaseClass -INFO - windows maximized
+2018-01-14 22:18:18,974 - BaseClass -INFO - URL Entered
+2018-01-14 22:18:21,469 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:18:21,641 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:18:21,829 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:18:21,976 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:18:22,170 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:28:39,194 - BaseClass -INFO - windows maximized
+2018-01-14 22:28:41,913 - BaseClass -INFO - URL Entered
+2018-01-14 22:28:45,352 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:28:45,602 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:28:45,787 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:28:45,979 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:28:46,183 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:28:46,330 - BaseClass -INFO - windows maximized
+2018-01-14 22:28:48,088 - BaseClass -INFO - URL Entered
+2018-01-14 22:28:50,618 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:28:51,060 - BaseClass -INFO - windows maximized
+2018-01-14 22:28:51,920 - BaseClass -INFO - URL Entered
+2018-01-14 22:29:08,090 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:25,796 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:28,241 - BaseClass -INFO - URL Entered
+2018-01-14 22:41:31,652 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:41:31,833 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:41:32,020 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:41:32,188 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:41:32,421 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:41:32,588 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:34,372 - BaseClass -INFO - URL Entered
+2018-01-14 22:41:36,888 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:41:37,315 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:38,187 - BaseClass -INFO - URL Entered
+2018-01-14 22:41:46,060 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:41:46,324 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:41:46,358 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 22:41:46,851 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:48,166 - BaseClass -INFO - URL Entered
+2018-01-14 22:41:50,651 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:41:50,869 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:41:51,067 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:41:51,099 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 22:41:51,555 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:53,013 - BaseClass -INFO - URL Entered
+2018-01-14 22:41:55,517 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:41:55,734 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:41:55,916 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:41:56,076 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:41:56,131 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 22:41:56,592 - BaseClass -INFO - windows maximized
+2018-01-14 22:41:57,439 - BaseClass -INFO - URL Entered
+2018-01-14 22:42:00,087 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:42:00,284 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:42:00,515 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:42:00,730 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:42:00,949 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:43:58,558 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:00,849 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:04,252 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:44:04,437 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:44:04,615 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:44:04,775 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:44:05,002 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:44:05,153 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:07,022 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:09,560 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:44:10,038 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:10,895 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:13,372 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:44:13,540 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:44:13,579 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 22:44:14,023 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:15,007 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:22,734 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:44:22,887 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:44:23,076 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:44:23,106 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 22:44:23,663 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:25,059 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:32,684 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:44:32,964 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:44:33,222 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:44:33,432 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:44:33,501 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 22:44:34,078 - BaseClass -INFO - windows maximized
+2018-01-14 22:44:35,512 - BaseClass -INFO - URL Entered
+2018-01-14 22:44:37,998 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:44:38,165 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:44:38,361 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:44:38,500 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:44:38,699 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:48:15,566 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:17,988 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:21,522 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:48:21,701 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:48:21,896 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:48:22,064 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:48:22,266 - SignUpImplementation -INFO - Role Selected
+2018-01-14 22:48:22,420 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:24,209 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:26,724 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 22:48:27,155 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:28,028 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:30,487 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:48:30,660 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:48:30,692 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 22:48:31,154 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:31,984 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:34,568 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:48:34,826 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:48:35,025 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:48:35,055 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 22:48:35,488 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:36,360 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:38,852 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:48:39,046 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:48:39,224 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:48:39,382 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:48:39,436 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 22:48:39,805 - BaseClass -INFO - windows maximized
+2018-01-14 22:48:40,639 - BaseClass -INFO - URL Entered
+2018-01-14 22:48:43,118 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 22:48:43,279 - SignUpImplementation -INFO - Email entered
+2018-01-14 22:48:43,477 - SignUpImplementation -INFO - Password entered
+2018-01-14 22:48:43,656 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 22:48:43,849 - SignUpImplementation -INFO - Role Selected
+2018-01-14 23:45:19,545 - BaseClass -INFO - windows maximized
+2018-01-14 23:45:44,047 - BaseClass -INFO - URL Entered
+2018-01-14 23:45:47,622 - BaseClass -INFO - windows maximized
+2018-01-14 23:45:49,004 - BaseClass -INFO - URL Entered
+2018-01-14 23:45:51,571 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 23:45:51,965 - BaseClass -INFO - windows maximized
+2018-01-14 23:45:52,891 - BaseClass -INFO - URL Entered
+2018-01-14 23:45:55,353 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:45:55,543 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:45:55,575 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 23:45:56,043 - BaseClass -INFO - windows maximized
+2018-01-14 23:45:56,925 - BaseClass -INFO - URL Entered
+2018-01-14 23:45:59,419 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:45:59,614 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:45:59,827 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:45:59,860 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 23:46:00,270 - BaseClass -INFO - windows maximized
+2018-01-14 23:46:01,145 - BaseClass -INFO - URL Entered
+2018-01-14 23:46:03,660 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:46:03,871 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:46:04,051 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:46:04,223 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 23:46:04,275 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 23:46:04,670 - BaseClass -INFO - windows maximized
+2018-01-14 23:46:05,540 - BaseClass -INFO - URL Entered
+2018-01-14 23:46:08,012 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:46:08,228 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:46:08,450 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:46:08,623 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 23:46:08,845 - SignUpImplementation -INFO - Role Selected
+2018-01-14 23:50:16,480 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:18,883 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:22,254 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:50:22,453 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:50:22,626 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:50:22,799 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 23:50:22,998 - SignUpImplementation -INFO - Role Selected
+2018-01-14 23:50:23,156 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:24,690 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:27,210 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-14 23:50:27,621 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:28,434 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:30,887 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:50:31,047 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:50:31,078 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-14 23:50:31,502 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:32,401 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:34,934 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:50:35,116 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:50:35,324 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:50:35,353 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-14 23:50:35,779 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:36,611 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:39,111 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:50:39,299 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:50:39,475 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:50:39,638 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 23:50:39,684 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-14 23:50:40,074 - BaseClass -INFO - windows maximized
+2018-01-14 23:50:40,884 - BaseClass -INFO - URL Entered
+2018-01-14 23:50:43,445 - SignUpImplementation -INFO - Full Name entered
+2018-01-14 23:50:43,645 - SignUpImplementation -INFO - Email entered
+2018-01-14 23:50:43,803 - SignUpImplementation -INFO - Password entered
+2018-01-14 23:50:43,953 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-14 23:50:44,141 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:27:37,981 - BaseClass -INFO - windows maximized
+2018-01-15 00:27:55,605 - BaseClass -INFO - URL Entered
+2018-01-15 00:27:59,254 - BaseClass -INFO - windows maximized
+2018-01-15 00:28:00,642 - BaseClass -INFO - URL Entered
+2018-01-15 00:28:03,337 - BaseClass -INFO - windows maximized
+2018-01-15 00:28:04,253 - BaseClass -INFO - URL Entered
+2018-01-15 00:28:06,945 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:28:07,137 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:28:07,179 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 00:28:07,579 - BaseClass -INFO - windows maximized
+2018-01-15 00:28:08,466 - BaseClass -INFO - URL Entered
+2018-01-15 00:28:11,120 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:28:11,338 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:28:11,534 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:28:11,562 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 00:28:11,963 - BaseClass -INFO - windows maximized
+2018-01-15 00:28:12,807 - BaseClass -INFO - URL Entered
+2018-01-15 00:28:15,340 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:28:15,538 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:28:15,728 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:28:15,920 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:28:15,993 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 00:28:16,355 - BaseClass -INFO - windows maximized
+2018-01-15 00:28:17,243 - BaseClass -INFO - URL Entered
+2018-01-15 00:28:19,706 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:28:19,908 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:28:20,126 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:28:20,298 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:28:20,498 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:30:30,917 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:33,300 - BaseClass -INFO - URL Entered
+2018-01-15 00:30:36,678 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:30:36,869 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:30:37,059 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:30:37,264 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:30:37,482 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:30:37,637 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:39,064 - BaseClass -INFO - URL Entered
+2018-01-15 00:30:41,613 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 00:30:42,026 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:42,867 - BaseClass -INFO - URL Entered
+2018-01-15 00:30:45,316 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:30:45,493 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:30:45,527 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 00:30:46,005 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:46,904 - BaseClass -INFO - URL Entered
+2018-01-15 00:30:49,413 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:30:49,587 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:30:49,798 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:30:49,827 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 00:30:50,275 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:51,114 - BaseClass -INFO - URL Entered
+2018-01-15 00:30:53,751 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:30:53,881 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:30:54,011 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:30:54,149 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:30:54,191 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 00:30:54,769 - BaseClass -INFO - windows maximized
+2018-01-15 00:30:55,626 - BaseClass -INFO - URL Entered
+2018-01-15 00:31:03,142 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:31:03,334 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:31:03,522 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:31:03,672 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:31:03,847 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:38:00,400 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:15,097 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:18,687 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:20,124 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:22,919 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 00:38:23,361 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:24,592 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:27,176 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:38:27,454 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:38:27,531 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 00:38:27,926 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:28,689 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:31,138 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:38:31,307 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:38:31,492 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:38:31,524 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 00:38:31,863 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:32,630 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:35,025 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:38:35,192 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:38:35,363 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:38:35,514 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:38:35,564 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 00:38:35,905 - BaseClass -INFO - windows maximized
+2018-01-15 00:38:36,641 - BaseClass -INFO - URL Entered
+2018-01-15 00:38:39,054 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:38:39,253 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:38:39,422 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:38:39,577 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:38:39,770 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:39:58,812 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:00,839 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:04,006 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:40:04,209 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:40:04,415 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:40:04,556 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:40:04,735 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:40:04,879 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:06,169 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:08,619 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 00:40:09,024 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:09,754 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:12,168 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:40:12,306 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:40:12,336 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 00:40:12,703 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:13,415 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:15,879 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:40:16,022 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:40:16,214 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:40:16,238 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 00:40:16,599 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:17,343 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:19,732 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:40:19,898 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:40:20,065 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:40:20,215 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:40:20,260 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 00:40:20,599 - BaseClass -INFO - windows maximized
+2018-01-15 00:40:21,319 - BaseClass -INFO - URL Entered
+2018-01-15 00:40:28,678 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:40:28,777 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:40:28,900 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:40:29,017 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:40:29,189 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:43:53,526 - BaseClass -INFO - windows maximized
+2018-01-15 00:43:55,842 - BaseClass -INFO - URL Entered
+2018-01-15 00:43:59,057 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:43:59,224 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:43:59,417 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:43:59,582 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:43:59,772 - SignUpImplementation -INFO - Role Selected
+2018-01-15 00:44:00,462 - BaseClass -INFO - windows maximized
+2018-01-15 00:44:01,745 - BaseClass -INFO - URL Entered
+2018-01-15 00:44:04,246 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 00:44:04,624 - BaseClass -INFO - windows maximized
+2018-01-15 00:44:05,348 - BaseClass -INFO - URL Entered
+2018-01-15 00:44:07,768 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:44:07,901 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:44:07,932 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 00:44:08,278 - BaseClass -INFO - windows maximized
+2018-01-15 00:44:09,023 - BaseClass -INFO - URL Entered
+2018-01-15 00:44:11,431 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:44:11,602 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:44:11,799 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:44:11,828 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 00:44:12,206 - BaseClass -INFO - windows maximized
+2018-01-15 00:44:12,986 - BaseClass -INFO - URL Entered
+2018-01-15 00:44:15,345 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:44:15,517 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:44:15,670 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:44:15,829 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:44:15,868 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 00:44:16,233 - BaseClass -INFO - windows maximized
+2018-01-15 00:44:17,018 - BaseClass -INFO - URL Entered
+2018-01-15 00:44:19,428 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 00:44:19,577 - SignUpImplementation -INFO - Email entered
+2018-01-15 00:44:19,728 - SignUpImplementation -INFO - Password entered
+2018-01-15 00:44:19,883 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 00:44:20,055 - SignUpImplementation -INFO - Role Selected
+2018-01-15 08:44:17,470 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:20,389 - BaseClass -INFO - URL Entered
+2018-01-15 08:44:24,021 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:25,446 - BaseClass -INFO - URL Entered
+2018-01-15 08:44:41,703 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:41,919 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:44,204 - BaseClass -INFO - URL Entered
+2018-01-15 08:44:47,603 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 08:44:47,804 - SignUpImplementation -INFO - Email entered
+2018-01-15 08:44:47,994 - SignUpImplementation -INFO - Password entered
+2018-01-15 08:44:48,169 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 08:44:48,385 - SignUpImplementation -INFO - Role Selected
+2018-01-15 08:44:48,549 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:50,074 - BaseClass -INFO - URL Entered
+2018-01-15 08:44:52,566 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 08:44:53,030 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:53,903 - BaseClass -INFO - URL Entered
+2018-01-15 08:44:56,385 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 08:44:56,569 - SignUpImplementation -INFO - Email entered
+2018-01-15 08:44:56,607 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 08:44:57,050 - BaseClass -INFO - windows maximized
+2018-01-15 08:44:57,912 - BaseClass -INFO - URL Entered
+2018-01-15 08:45:00,425 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 08:45:00,633 - SignUpImplementation -INFO - Email entered
+2018-01-15 08:45:00,885 - SignUpImplementation -INFO - Password entered
+2018-01-15 08:45:00,921 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 08:45:01,277 - BaseClass -INFO - windows maximized
+2018-01-15 08:45:02,330 - BaseClass -INFO - URL Entered
+2018-01-15 08:45:04,819 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 08:45:05,000 - SignUpImplementation -INFO - Email entered
+2018-01-15 08:45:05,192 - SignUpImplementation -INFO - Password entered
+2018-01-15 08:45:05,392 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 08:45:05,444 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 08:45:05,834 - BaseClass -INFO - windows maximized
+2018-01-15 08:45:06,731 - BaseClass -INFO - URL Entered
+2018-01-15 08:45:09,212 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 08:45:09,372 - SignUpImplementation -INFO - Email entered
+2018-01-15 08:45:09,553 - SignUpImplementation -INFO - Password entered
+2018-01-15 08:45:09,709 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 08:45:09,897 - SignUpImplementation -INFO - Role Selected
+2018-01-15 09:05:32,413 - BaseClass -INFO - windows maximized
+2018-01-15 09:05:34,975 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:16,650 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:18,977 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:22,411 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:10:22,627 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:10:22,835 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:10:23,003 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:10:23,224 - SignUpImplementation -INFO - Role Selected
+2018-01-15 09:10:24,073 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:26,121 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:33,772 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 09:10:34,326 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:35,665 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:38,174 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:10:38,394 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:10:38,433 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 09:10:38,914 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:40,538 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:47,992 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:10:48,127 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:10:48,272 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:10:48,296 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 09:10:48,844 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:49,724 - BaseClass -INFO - URL Entered
+2018-01-15 09:10:57,259 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:10:57,391 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:10:57,547 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:10:57,684 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:10:57,728 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 09:10:58,301 - BaseClass -INFO - windows maximized
+2018-01-15 09:10:59,209 - BaseClass -INFO - URL Entered
+2018-01-15 09:11:06,819 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:11:06,994 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:11:07,174 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:11:07,327 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:11:07,499 - SignUpImplementation -INFO - Role Selected
+2018-01-15 09:24:39,262 - BaseClass -INFO - windows maximized
+2018-01-15 09:24:41,562 - BaseClass -INFO - URL Entered
+2018-01-15 09:24:44,889 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:24:45,161 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:24:45,417 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:24:45,625 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:24:45,825 - SignUpImplementation -INFO - Role Selected
+2018-01-15 09:24:46,970 - BaseClass -INFO - windows maximized
+2018-01-15 09:24:48,426 - BaseClass -INFO - URL Entered
+2018-01-15 09:24:50,966 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 09:24:51,377 - BaseClass -INFO - windows maximized
+2018-01-15 09:24:52,233 - BaseClass -INFO - URL Entered
+2018-01-15 09:24:54,710 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:24:54,894 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:24:54,934 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 09:24:55,325 - BaseClass -INFO - windows maximized
+2018-01-15 09:24:56,165 - BaseClass -INFO - URL Entered
+2018-01-15 09:24:58,679 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:24:58,863 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:24:59,091 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:24:59,123 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 09:24:59,549 - BaseClass -INFO - windows maximized
+2018-01-15 09:25:00,424 - BaseClass -INFO - URL Entered
+2018-01-15 09:25:02,913 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:25:03,085 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:25:03,265 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:25:03,433 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:25:03,480 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 09:25:03,892 - BaseClass -INFO - windows maximized
+2018-01-15 09:25:04,730 - BaseClass -INFO - URL Entered
+2018-01-15 09:25:07,244 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 09:25:07,456 - SignUpImplementation -INFO - Email entered
+2018-01-15 09:25:07,641 - SignUpImplementation -INFO - Password entered
+2018-01-15 09:25:07,824 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 09:25:08,073 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:14:36,646 - BaseClass -INFO - windows maximized
+2018-01-15 10:14:46,113 - BaseClass -INFO - URL Entered
+2018-01-15 10:14:49,795 - BaseClass -INFO - windows maximized
+2018-01-15 10:14:51,203 - BaseClass -INFO - URL Entered
+2018-01-15 10:14:53,736 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 10:14:54,225 - BaseClass -INFO - windows maximized
+2018-01-15 10:14:55,061 - BaseClass -INFO - URL Entered
+2018-01-15 10:14:57,546 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:14:57,738 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:14:57,766 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 10:14:58,162 - BaseClass -INFO - windows maximized
+2018-01-15 10:14:59,047 - BaseClass -INFO - URL Entered
+2018-01-15 10:15:06,810 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:15:06,946 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:15:07,098 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:15:07,124 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 10:15:07,707 - BaseClass -INFO - windows maximized
+2018-01-15 10:15:08,707 - BaseClass -INFO - URL Entered
+2018-01-15 10:15:16,326 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:15:16,487 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:15:16,622 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:15:16,758 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:15:16,806 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 10:15:17,325 - BaseClass -INFO - windows maximized
+2018-01-15 10:15:18,621 - BaseClass -INFO - URL Entered
+2018-01-15 10:15:26,035 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:15:26,147 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:15:26,283 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:15:26,407 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:15:26,590 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:24:51,142 - BaseClass -INFO - windows maximized
+2018-01-15 10:24:54,219 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:03,010 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:25:03,409 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:25:03,608 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:25:03,812 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:25:04,088 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:25:10,500 - BaseClass -INFO - windows maximized
+2018-01-15 10:25:13,081 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:20,641 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 10:25:21,254 - BaseClass -INFO - windows maximized
+2018-01-15 10:25:23,478 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:31,021 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:25:31,222 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:25:31,254 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 10:25:31,833 - BaseClass -INFO - windows maximized
+2018-01-15 10:25:32,886 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:40,346 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:25:40,490 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:25:40,699 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:25:40,728 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 10:25:41,286 - BaseClass -INFO - windows maximized
+2018-01-15 10:25:42,412 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:50,086 - BaseClass -INFO - windows maximized
+2018-01-15 10:25:51,207 - BaseClass -INFO - URL Entered
+2018-01-15 10:25:58,898 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:25:59,138 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:25:59,340 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:25:59,535 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:25:59,818 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:30:49,912 - BaseClass -INFO - windows maximized
+2018-01-15 10:30:52,297 - BaseClass -INFO - URL Entered
+2018-01-15 10:30:55,668 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:30:55,864 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:30:56,041 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:30:56,213 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:30:56,409 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:30:57,358 - BaseClass -INFO - windows maximized
+2018-01-15 10:30:58,763 - BaseClass -INFO - URL Entered
+2018-01-15 10:31:01,441 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 10:31:01,850 - BaseClass -INFO - windows maximized
+2018-01-15 10:31:02,710 - BaseClass -INFO - URL Entered
+2018-01-15 10:31:05,160 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:31:05,340 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:31:05,380 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 10:31:05,801 - BaseClass -INFO - windows maximized
+2018-01-15 10:31:06,689 - BaseClass -INFO - URL Entered
+2018-01-15 10:31:09,165 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:31:09,357 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:31:09,558 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:31:09,591 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 10:31:10,000 - BaseClass -INFO - windows maximized
+2018-01-15 10:31:10,842 - BaseClass -INFO - URL Entered
+2018-01-15 10:31:13,500 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:31:13,676 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:31:13,857 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:31:14,008 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:31:14,058 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 10:31:14,496 - BaseClass -INFO - windows maximized
+2018-01-15 10:31:15,338 - BaseClass -INFO - URL Entered
+2018-01-15 10:31:17,812 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:31:17,984 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:31:18,148 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:31:18,304 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:31:18,492 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:33:17,581 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:19,960 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:23,334 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:33:23,537 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:33:23,757 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:33:23,921 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:33:24,117 - SignUpImplementation -INFO - Role Selected
+2018-01-15 10:33:25,054 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:26,515 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:29,071 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 10:33:29,531 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:30,383 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:32,868 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:33:33,050 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:33:33,084 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 10:33:33,520 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:34,385 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:36,894 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:33:37,077 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:33:37,290 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:33:37,322 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 10:33:37,687 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:38,534 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:41,039 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:33:41,223 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:33:41,424 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:33:41,588 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:33:41,632 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 10:33:42,046 - BaseClass -INFO - windows maximized
+2018-01-15 10:33:42,885 - BaseClass -INFO - URL Entered
+2018-01-15 10:33:45,351 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 10:33:45,534 - SignUpImplementation -INFO - Email entered
+2018-01-15 10:33:45,715 - SignUpImplementation -INFO - Password entered
+2018-01-15 10:33:45,874 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 10:33:46,059 - SignUpImplementation -INFO - Role Selected
+2018-01-15 12:07:38,318 - BaseClass -INFO - windows maximized
+2018-01-15 12:07:40,797 - BaseClass -INFO - URL Entered
+2018-01-15 12:07:44,082 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 12:07:44,274 - SignUpImplementation -INFO - Email entered
+2018-01-15 12:07:44,463 - SignUpImplementation -INFO - Password entered
+2018-01-15 12:07:44,643 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 12:07:44,855 - SignUpImplementation -INFO - Role Selected
+2018-01-15 12:07:45,780 - BaseClass -INFO - windows maximized
+2018-01-15 12:07:47,272 - BaseClass -INFO - URL Entered
+2018-01-15 12:07:49,809 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-15 12:07:50,241 - BaseClass -INFO - windows maximized
+2018-01-15 12:07:51,145 - BaseClass -INFO - URL Entered
+2018-01-15 12:07:53,730 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 12:07:53,926 - SignUpImplementation -INFO - Email entered
+2018-01-15 12:07:53,966 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-15 12:07:54,366 - BaseClass -INFO - windows maximized
+2018-01-15 12:07:55,259 - BaseClass -INFO - URL Entered
+2018-01-15 12:07:57,733 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 12:07:57,921 - SignUpImplementation -INFO - Email entered
+2018-01-15 12:07:58,129 - SignUpImplementation -INFO - Password entered
+2018-01-15 12:07:58,157 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-15 12:07:58,618 - BaseClass -INFO - windows maximized
+2018-01-15 12:07:59,461 - BaseClass -INFO - URL Entered
+2018-01-15 12:08:01,992 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 12:08:02,217 - SignUpImplementation -INFO - Email entered
+2018-01-15 12:08:02,397 - SignUpImplementation -INFO - Password entered
+2018-01-15 12:08:02,565 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 12:08:02,614 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-15 12:08:02,996 - BaseClass -INFO - windows maximized
+2018-01-15 12:08:03,834 - BaseClass -INFO - URL Entered
+2018-01-15 12:08:06,315 - SignUpImplementation -INFO - Full Name entered
+2018-01-15 12:08:06,486 - SignUpImplementation -INFO - Email entered
+2018-01-15 12:08:06,682 - SignUpImplementation -INFO - Password entered
+2018-01-15 12:08:06,841 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-15 12:08:07,037 - SignUpImplementation -INFO - Role Selected
+2018-01-16 00:21:29,635 - BaseClass -INFO - windows maximized
+2018-01-16 00:21:48,624 - BaseClass -INFO - URL Entered
+2018-01-16 00:21:52,146 - BaseClass -INFO - windows maximized
+2018-01-16 00:21:53,387 - BaseClass -INFO - URL Entered
+2018-01-16 00:21:55,917 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 00:21:56,307 - BaseClass -INFO - windows maximized
+2018-01-16 00:21:57,060 - BaseClass -INFO - URL Entered
+2018-01-16 00:21:59,478 - SignUpImplementation -INFO - Full Name entered
+2018-01-16 00:21:59,662 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:21:59,691 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 00:22:00,065 - BaseClass -INFO - windows maximized
+2018-01-16 00:22:00,808 - BaseClass -INFO - URL Entered
+2018-01-16 00:22:03,224 - SignUpImplementation -INFO - Full Name entered
+2018-01-16 00:22:03,424 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:22:03,610 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:22:03,646 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 00:22:03,991 - BaseClass -INFO - windows maximized
+2018-01-16 00:22:04,790 - BaseClass -INFO - URL Entered
+2018-01-16 00:22:07,218 - SignUpImplementation -INFO - Full Name entered
+2018-01-16 00:22:07,387 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:22:07,558 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:22:07,696 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 00:22:07,746 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 00:22:08,070 - BaseClass -INFO - windows maximized
+2018-01-16 00:22:08,931 - BaseClass -INFO - URL Entered
+2018-01-16 00:22:11,341 - SignUpImplementation -INFO - Full Name entered
+2018-01-16 00:22:11,507 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:22:11,666 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:22:11,820 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 00:22:11,998 - SignUpImplementation -INFO - Role Selected
+2018-01-16 00:50:42,472 - BaseClass -INFO - windows maximized
+2018-01-16 00:50:52,486 - BaseClass -INFO - URL Entered
+2018-01-16 00:50:56,152 - BaseClass -INFO - windows maximized
+2018-01-16 00:50:57,557 - BaseClass -INFO - URL Entered
+2018-01-16 00:51:00,139 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 00:51:00,559 - BaseClass -INFO - windows maximized
+2018-01-16 00:51:01,611 - BaseClass -INFO - URL Entered
+2018-01-16 00:51:04,592 - BaseClass -INFO - windows maximized
+2018-01-16 00:51:05,435 - BaseClass -INFO - URL Entered
+2018-01-16 00:51:08,286 - BaseClass -INFO - windows maximized
+2018-01-16 00:51:09,149 - BaseClass -INFO - URL Entered
+2018-01-16 00:51:12,098 - BaseClass -INFO - windows maximized
+2018-01-16 00:51:13,023 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:23,602 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:25,986 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:29,646 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:53:29,861 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:53:30,052 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 00:53:30,251 - SignUpImplementation -INFO - Role Selected
+2018-01-16 00:53:30,873 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:32,336 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:34,889 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 00:53:35,320 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:36,181 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:38,849 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:53:38,885 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 00:53:39,290 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:40,148 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:42,996 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:53:43,160 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:53:43,197 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 00:53:43,732 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:44,630 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:52,337 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:53:52,491 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:53:52,626 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 00:53:52,668 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 00:53:53,191 - BaseClass -INFO - windows maximized
+2018-01-16 00:53:54,504 - BaseClass -INFO - URL Entered
+2018-01-16 00:53:57,201 - SignUpImplementation -INFO - Email entered
+2018-01-16 00:53:57,384 - SignUpImplementation -INFO - Password entered
+2018-01-16 00:53:57,546 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 00:53:57,747 - SignUpImplementation -INFO - Role Selected
+2018-01-16 00:55:26,857 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:29,402 - BaseClass -INFO - URL Entered
+2018-01-16 00:55:33,012 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:34,424 - BaseClass -INFO - URL Entered
+2018-01-16 00:55:37,301 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:38,117 - BaseClass -INFO - URL Entered
+2018-01-16 00:55:40,976 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:41,810 - BaseClass -INFO - URL Entered
+2018-01-16 00:55:44,657 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:45,508 - BaseClass -INFO - URL Entered
+2018-01-16 00:55:48,365 - BaseClass -INFO - windows maximized
+2018-01-16 00:55:49,385 - BaseClass -INFO - URL Entered
+2018-01-16 01:26:33,577 - BaseClass -INFO - windows maximized
+2018-01-16 01:26:36,093 - BaseClass -INFO - URL Entered
+2018-01-16 01:26:39,622 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:26:39,811 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:26:39,984 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:26:40,187 - SignUpImplementation -INFO - Role Selected
+2018-01-16 01:26:40,857 - BaseClass -INFO - windows maximized
+2018-01-16 01:26:42,610 - BaseClass -INFO - URL Entered
+2018-01-16 01:26:45,347 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 01:26:45,950 - BaseClass -INFO - windows maximized
+2018-01-16 01:26:46,870 - BaseClass -INFO - URL Entered
+2018-01-16 01:26:54,543 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:26:54,569 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 01:26:55,125 - BaseClass -INFO - windows maximized
+2018-01-16 01:26:56,456 - BaseClass -INFO - URL Entered
+2018-01-16 01:26:59,220 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:26:59,418 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:26:59,446 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 01:26:59,872 - BaseClass -INFO - windows maximized
+2018-01-16 01:27:01,719 - BaseClass -INFO - URL Entered
+2018-01-16 01:27:04,420 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:27:04,596 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:27:04,770 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:27:04,820 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 01:27:05,232 - BaseClass -INFO - windows maximized
+2018-01-16 01:27:06,088 - BaseClass -INFO - URL Entered
+2018-01-16 01:27:13,624 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:27:13,757 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:27:13,891 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:27:14,086 - SignUpImplementation -INFO - Role Selected
+2018-01-16 01:36:44,460 - BaseClass -INFO - windows maximized
+2018-01-16 01:36:46,943 - BaseClass -INFO - URL Entered
+2018-01-16 01:36:50,514 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:36:50,723 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:36:50,878 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:36:51,083 - SignUpImplementation -INFO - Role Selected
+2018-01-16 01:36:52,091 - BaseClass -INFO - windows maximized
+2018-01-16 01:36:53,599 - BaseClass -INFO - URL Entered
+2018-01-16 01:36:56,144 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 01:36:56,578 - BaseClass -INFO - windows maximized
+2018-01-16 01:36:57,528 - BaseClass -INFO - URL Entered
+2018-01-16 01:37:00,382 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:37:00,415 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 01:37:00,786 - BaseClass -INFO - windows maximized
+2018-01-16 01:37:01,657 - BaseClass -INFO - URL Entered
+2018-01-16 01:37:04,329 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:37:04,538 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:37:04,567 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 01:37:05,002 - BaseClass -INFO - windows maximized
+2018-01-16 01:37:06,062 - BaseClass -INFO - URL Entered
+2018-01-16 01:37:08,749 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:37:08,924 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:37:09,089 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:37:09,136 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 01:37:09,536 - BaseClass -INFO - windows maximized
+2018-01-16 01:37:10,408 - BaseClass -INFO - URL Entered
+2018-01-16 01:37:13,044 - SignUpImplementation -INFO - Email entered
+2018-01-16 01:37:13,237 - SignUpImplementation -INFO - Password entered
+2018-01-16 01:37:13,402 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 01:37:13,609 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:15:05,103 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:15,044 - BaseClass -INFO - URL Entered
+2018-01-16 10:15:18,773 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:20,288 - BaseClass -INFO - URL Entered
+2018-01-16 10:15:22,893 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:15:23,286 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:24,173 - BaseClass -INFO - URL Entered
+2018-01-16 10:15:40,320 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:43,200 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:45,914 - BaseClass -INFO - URL Entered
+2018-01-16 10:15:49,437 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:15:49,632 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:15:49,794 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:15:50,008 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:15:51,011 - BaseClass -INFO - windows maximized
+2018-01-16 10:15:52,820 - BaseClass -INFO - URL Entered
+2018-01-16 10:16:00,566 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:16:01,103 - BaseClass -INFO - windows maximized
+2018-01-16 10:16:02,482 - BaseClass -INFO - URL Entered
+2018-01-16 10:16:10,435 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:16:10,480 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 10:16:11,064 - BaseClass -INFO - windows maximized
+2018-01-16 10:16:12,644 - BaseClass -INFO - URL Entered
+2018-01-16 10:16:15,437 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:16:15,663 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:16:15,701 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 10:16:16,153 - BaseClass -INFO - windows maximized
+2018-01-16 10:16:17,028 - BaseClass -INFO - URL Entered
+2018-01-16 10:16:19,718 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:16:19,909 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:16:20,089 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:16:20,137 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 10:16:20,541 - BaseClass -INFO - windows maximized
+2018-01-16 10:16:21,419 - BaseClass -INFO - URL Entered
+2018-01-16 10:16:24,158 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:16:24,345 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:16:24,507 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:16:24,696 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:23:41,901 - BaseClass -INFO - windows maximized
+2018-01-16 10:23:44,411 - BaseClass -INFO - URL Entered
+2018-01-16 10:23:47,999 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:23:48,172 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:23:48,357 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:23:48,559 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:23:49,534 - BaseClass -INFO - windows maximized
+2018-01-16 10:23:51,172 - BaseClass -INFO - URL Entered
+2018-01-16 10:23:53,703 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:23:54,086 - BaseClass -INFO - windows maximized
+2018-01-16 10:23:54,991 - BaseClass -INFO - URL Entered
+2018-01-16 10:23:57,685 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:23:57,719 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 10:23:58,172 - BaseClass -INFO - windows maximized
+2018-01-16 10:23:59,111 - BaseClass -INFO - URL Entered
+2018-01-16 10:24:01,896 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:24:02,077 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:24:02,104 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 10:24:02,480 - BaseClass -INFO - windows maximized
+2018-01-16 10:24:03,382 - BaseClass -INFO - URL Entered
+2018-01-16 10:24:06,054 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:24:06,233 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:24:06,396 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:24:06,443 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 10:24:06,900 - BaseClass -INFO - windows maximized
+2018-01-16 10:24:07,786 - BaseClass -INFO - URL Entered
+2018-01-16 10:24:10,443 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:24:10,628 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:24:10,778 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:24:10,975 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:32:30,595 - BaseClass -INFO - windows maximized
+2018-01-16 10:32:33,226 - BaseClass -INFO - URL Entered
+2018-01-16 10:32:36,955 - BaseClass -INFO - windows maximized
+2018-01-16 10:32:38,395 - BaseClass -INFO - URL Entered
+2018-01-16 10:32:41,000 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:32:41,465 - BaseClass -INFO - windows maximized
+2018-01-16 10:32:42,309 - BaseClass -INFO - URL Entered
+2018-01-16 10:32:44,943 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:32:44,978 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 10:32:45,446 - BaseClass -INFO - windows maximized
+2018-01-16 10:32:46,388 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:02,505 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:04,078 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:06,973 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:10,576 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:33:10,789 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:33:10,956 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:33:11,158 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:33:12,209 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:13,785 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:16,309 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:33:16,690 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:17,585 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:20,287 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:33:20,321 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 10:33:20,749 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:21,590 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:24,270 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:33:24,494 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:33:24,520 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 10:33:24,925 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:25,824 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:28,484 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:33:28,681 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:33:28,850 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:33:28,898 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 10:33:29,320 - BaseClass -INFO - windows maximized
+2018-01-16 10:33:30,141 - BaseClass -INFO - URL Entered
+2018-01-16 10:33:32,777 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:33:32,968 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:33:33,148 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:33:33,332 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:47:26,244 - BaseClass -INFO - windows maximized
+2018-01-16 10:47:37,019 - BaseClass -INFO - URL Entered
+2018-01-16 10:47:40,747 - BaseClass -INFO - windows maximized
+2018-01-16 10:47:42,181 - BaseClass -INFO - URL Entered
+2018-01-16 10:47:44,795 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:47:45,224 - BaseClass -INFO - windows maximized
+2018-01-16 10:47:46,128 - BaseClass -INFO - URL Entered
+2018-01-16 10:47:54,748 - BaseClass -INFO - windows maximized
+2018-01-16 10:47:56,166 - BaseClass -INFO - URL Entered
+2018-01-16 10:47:59,129 - BaseClass -INFO - windows maximized
+2018-01-16 10:48:00,858 - BaseClass -INFO - URL Entered
+2018-01-16 10:48:03,720 - BaseClass -INFO - windows maximized
+2018-01-16 10:48:04,555 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:07,341 - BaseClass -INFO - windows maximized
+2018-01-16 10:50:09,677 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:13,652 - BaseClass -INFO - windows maximized
+2018-01-16 10:50:15,216 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:18,100 - BaseClass -INFO - windows maximized
+2018-01-16 10:50:18,928 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:21,885 - BaseClass -INFO - windows maximized
+2018-01-16 10:50:22,753 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:25,605 - BaseClass -INFO - windows maximized
+2018-01-16 10:50:26,474 - BaseClass -INFO - URL Entered
+2018-01-16 10:50:42,646 - BaseClass -INFO - windows maximized
+2018-01-16 10:51:41,960 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:04,003 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:06,320 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:09,940 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:52:10,114 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:52:10,289 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:52:10,500 - SignUpImplementation -INFO - Role Selected
+2018-01-16 10:52:11,317 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:12,963 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:15,491 - SignUpImplementation -INFO - Entered Name is Improper
+2018-01-16 10:52:15,936 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:16,788 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:19,457 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:52:19,485 - SignUpImplementation -INFO - Entered Email is Improper
+2018-01-16 10:52:19,916 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:20,759 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:23,401 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:52:23,636 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:52:23,666 - SignUpImplementation -INFO - Entered Password is Improper
+2018-01-16 10:52:24,064 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:24,936 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:27,624 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:52:27,807 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:52:27,975 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:52:28,026 - SignUpImplementation -INFO - Values in 'Password' field and 'Confirm Password' field are not same
+2018-01-16 10:52:28,481 - BaseClass -INFO - windows maximized
+2018-01-16 10:52:29,363 - BaseClass -INFO - URL Entered
+2018-01-16 10:52:32,048 - SignUpImplementation -INFO - Email entered
+2018-01-16 10:52:32,236 - SignUpImplementation -INFO - Password entered
+2018-01-16 10:52:32,417 - SignUpImplementation -INFO - Confirm Password entered
+2018-01-16 10:52:32,626 - SignUpImplementation -INFO - Role Selected
+2018-01-16 11:19:22,307 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:19:26,561 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:19:31,117 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:49:03,341 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:49:07,761 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:49:12,023 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:49:16,294 - SignUpImplementation -INFO - Password entered
+2018-01-16 11:49:20,520 - SignUpImplementation -INFO - Password entered
+2018-01-16 12:53:42,670 - SignUpImplementation -INFO - Password entered
+2018-01-16 12:53:51,160 - SignUpImplementation -INFO - Password entered
+2018-01-16 15:06:02,793 - SignUpImplementation -INFO - Password entered
+2018-01-16 15:06:28,283 - SignUpImplementation -INFO - Password entered
+2018-01-16 15:06:46,890 - SignUpImplementation -INFO - Password entered
+2018-01-16 16:52:54,164 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:00:59,955 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:01:05,729 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:06:01,812 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:06:17,189 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:06:21,799 - SignUpImplementation -INFO - Password entered
+2018-01-16 17:06:26,326 - SignUpImplementation -INFO - Password entered
+2018-01-16 18:59:36,334 - SignUpImplementation -INFO - Password entered
+2018-01-16 18:59:41,911 - SignUpImplementation -INFO - Password entered
+2018-01-16 18:59:54,381 - SignUpImplementation -INFO - Password entered
+2018-01-16 18:59:58,590 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:05:53,026 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:05:58,664 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:06:11,425 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:06:15,597 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:16:13,925 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:16:19,698 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:16:32,431 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:16:36,619 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:20:07,778 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:20:12,836 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:20:25,578 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:38:45,053 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:38:50,452 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:39:02,530 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:39:06,431 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:40:17,217 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:40:22,532 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:40:34,368 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:40:38,288 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:52:13,284 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:52:32,702 - SignUpImplementation -INFO - Password entered
+2018-01-16 19:53:00,958 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:13:55,953 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:14:00,903 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:14:13,910 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:16:30,335 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:16:36,243 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:16:49,098 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:16:53,267 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:17:48,312 - SignUpImplementation -INFO - Password entered
+2018-01-16 20:18:04,460 - SignUpImplementation -INFO - Password entered
+2018-01-16 22:02:42,561 - SignUpImplementation -INFO - Password entered
+2018-01-16 22:02:47,719 - SignUpImplementation -INFO - Password entered
+2018-01-16 22:03:01,172 - SignUpImplementation -INFO - Password entered
+2018-01-16 22:03:05,495 - SignUpImplementation -INFO - Password entered
+2018-01-18 08:49:46,923 - SignUpImplementation -INFO - Password entered
+2018-01-18 08:49:52,625 - SignUpImplementation -INFO - Password entered
+2018-01-18 08:50:06,504 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:36:25,988 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:36:32,214 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:36:38,179 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:36:44,667 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:36:51,246 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:22,819 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:29,037 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:35,492 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:41,593 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:47,821 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:41:53,856 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:45:32,576 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:45:38,894 - SignUpImplementation -INFO - Password entered
+2018-01-18 21:46:01,827 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:00:26,015 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:00:37,854 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:01:06,638 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:01:16,345 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:06:11,207 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:06:21,062 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:06:43,641 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:06:51,108 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:07:01,609 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:38:01,350 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:39:13,661 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:45:49,566 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:47:27,584 - SignUpImplementation -INFO - Password entered
+2018-01-18 22:56:45,224 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:06:51,115 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:11:01,705 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:17:36,346 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:17:48,205 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:18:11,966 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:18:20,070 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:18:27,947 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:20:13,083 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:20:27,598 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:21:05,713 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:21:18,579 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:21:31,430 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:38:08,651 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:38:26,964 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:38:59,803 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:39:07,721 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:39:15,071 - SignUpImplementation -INFO - Password entered
+2018-01-18 23:40:39,237 - LoginImplementation -INFO - Username entered
+2018-01-18 23:40:39,363 - LoginImplementation -INFO - password entered
+2018-01-18 23:40:39,548 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:40:44,740 - LoginImplementation -INFO - Username entered
+2018-01-18 23:40:44,844 - LoginImplementation -INFO - password entered
+2018-01-18 23:40:44,990 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:42:12,048 - LoginImplementation -INFO - Username entered
+2018-01-18 23:42:12,169 - LoginImplementation -INFO - password entered
+2018-01-18 23:42:12,328 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:42:20,662 - LoginImplementation -INFO - Username entered
+2018-01-18 23:42:20,800 - LoginImplementation -INFO - password entered
+2018-01-18 23:42:20,984 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:42:28,774 - LoginImplementation -INFO - Username entered
+2018-01-18 23:42:28,872 - LoginImplementation -INFO - password entered
+2018-01-18 23:42:29,021 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:42:36,896 - LoginImplementation -INFO - Username entered
+2018-01-18 23:42:36,988 - LoginImplementation -INFO - password entered
+2018-01-18 23:42:37,120 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:47:50,782 - LoginImplementation -INFO - Username entered
+2018-01-18 23:47:50,914 - LoginImplementation -INFO - password entered
+2018-01-18 23:47:51,117 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:48:05,986 - LoginImplementation -INFO - Username entered
+2018-01-18 23:48:06,078 - LoginImplementation -INFO - password entered
+2018-01-18 23:48:16,246 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:48:29,685 - LoginImplementation -INFO - Username entered
+2018-01-18 23:48:29,771 - LoginImplementation -INFO - password entered
+2018-01-18 23:48:39,906 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:48:48,547 - LoginImplementation -INFO - Username entered
+2018-01-18 23:48:48,638 - LoginImplementation -INFO - password entered
+2018-01-18 23:48:48,784 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:49:27,146 - LoginImplementation -INFO - Username entered
+2018-01-18 23:49:27,260 - LoginImplementation -INFO - password entered
+2018-01-18 23:49:27,427 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:49:36,901 - LoginImplementation -INFO - Username entered
+2018-01-18 23:49:36,993 - LoginImplementation -INFO - password entered
+2018-01-18 23:49:37,172 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:49:44,919 - LoginImplementation -INFO - Username entered
+2018-01-18 23:49:45,005 - LoginImplementation -INFO - password entered
+2018-01-18 23:49:45,136 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:49:52,691 - LoginImplementation -INFO - Username entered
+2018-01-18 23:49:52,785 - LoginImplementation -INFO - password entered
+2018-01-18 23:49:52,936 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:51:51,626 - LoginImplementation -INFO - Username entered
+2018-01-18 23:51:51,725 - LoginImplementation -INFO - password entered
+2018-01-18 23:51:51,875 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:52:00,158 - LoginImplementation -INFO - Username entered
+2018-01-18 23:52:00,289 - LoginImplementation -INFO - password entered
+2018-01-18 23:52:00,408 - LoginImplementation -INFO - Login button clicked
+2018-01-18 23:52:08,578 - LoginImplementation -INFO - Username entered
+2018-01-18 23:52:08,666 - LoginImplementation -INFO - password entered
+2018-01-18 23:52:08,786 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:09:15,181 - LoginImplementation -INFO - Username entered
+2018-01-19 00:09:15,390 - LoginImplementation -INFO - password entered
+2018-01-19 00:09:15,545 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:09:24,947 - LoginImplementation -INFO - Username entered
+2018-01-19 00:09:25,129 - LoginImplementation -INFO - password entered
+2018-01-19 00:09:25,243 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:09:33,039 - LoginImplementation -INFO - Username entered
+2018-01-19 00:09:33,222 - LoginImplementation -INFO - password entered
+2018-01-19 00:09:33,335 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:09:40,986 - LoginImplementation -INFO - Username entered
+2018-01-19 00:09:41,195 - LoginImplementation -INFO - password entered
+2018-01-19 00:09:41,323 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:11:40,639 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:11:54,580 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:12:22,194 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:12:29,719 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:12:37,042 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:16:42,357 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:16:57,030 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:17:23,450 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:17:30,968 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:17:38,304 - SignUpImplementation -INFO - Password entered
+2018-01-19 00:17:51,756 - LoginImplementation -INFO - Username entered
+2018-01-19 00:17:51,916 - LoginImplementation -INFO - password entered
+2018-01-19 00:17:52,043 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:17:59,633 - LoginImplementation -INFO - Username entered
+2018-01-19 00:17:59,767 - LoginImplementation -INFO - password entered
+2018-01-19 00:17:59,877 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:18:07,482 - LoginImplementation -INFO - Username entered
+2018-01-19 00:18:07,615 - LoginImplementation -INFO - password entered
+2018-01-19 00:18:07,723 - LoginImplementation -INFO - Login button clicked
+2018-01-19 00:18:15,396 - LoginImplementation -INFO - Username entered
+2018-01-19 00:18:15,523 - LoginImplementation -INFO - password entered
+2018-01-19 00:18:15,632 - LoginImplementation -INFO - Login button clicked
+2018-01-19 11:45:39,433 - SignUpImplementation -INFO - Password entered
+2018-01-19 11:45:53,347 - SignUpImplementation -INFO - Password entered
+2018-01-19 11:46:20,107 - SignUpImplementation -INFO - Password entered
+2018-01-19 11:46:27,271 - SignUpImplementation -INFO - Password entered
+2018-01-19 11:46:34,445 - SignUpImplementation -INFO - Password entered
+2018-01-19 11:46:47,810 - LoginImplementation -INFO - Username entered
+2018-01-19 11:46:47,984 - LoginImplementation -INFO - password entered
+2018-01-19 11:46:48,125 - LoginImplementation -INFO - Login button clicked
+2018-01-19 11:46:55,546 - LoginImplementation -INFO - Username entered
+2018-01-19 11:46:55,737 - LoginImplementation -INFO - password entered
+2018-01-19 11:46:55,891 - LoginImplementation -INFO - Login button clicked
+2018-01-19 11:47:03,331 - LoginImplementation -INFO - Username entered
+2018-01-19 11:47:03,494 - LoginImplementation -INFO - password entered
+2018-01-19 11:47:03,639 - LoginImplementation -INFO - Login button clicked
+2018-01-19 11:47:11,176 - LoginImplementation -INFO - Username entered
+2018-01-19 11:47:11,309 - LoginImplementation -INFO - password entered
+2018-01-19 11:47:11,417 - LoginImplementation -INFO - Login button clicked
+2018-01-21 20:02:17,336 - SignUpImplementation -INFO - Password entered
+2018-01-21 20:02:28,339 - SignUpImplementation -INFO - Password entered
+2018-01-21 20:02:41,639 - LoginImplementation -INFO - Username entered
+2018-01-21 20:02:41,837 - LoginImplementation -INFO - password entered
+2018-01-21 20:02:42,012 - LoginImplementation -INFO - Login button clicked
+2018-01-21 20:02:49,491 - LoginImplementation -INFO - Username entered
+2018-01-21 20:02:49,655 - LoginImplementation -INFO - password entered
+2018-01-21 20:02:49,796 - LoginImplementation -INFO - Login button clicked
+2018-01-21 20:02:57,451 - LoginImplementation -INFO - Username entered
+2018-01-21 20:02:57,637 - LoginImplementation -INFO - password entered
+2018-01-21 20:02:57,784 - LoginImplementation -INFO - Login button clicked
+2018-01-21 20:03:05,354 - LoginImplementation -INFO - Username entered
+2018-01-21 20:03:05,507 - LoginImplementation -INFO - password entered
+2018-01-21 20:03:05,644 - LoginImplementation -INFO - Login button clicked
+2018-01-22 00:33:01,526 - LoginImplementation -INFO - Username entered
+2018-01-22 00:33:01,635 - LoginImplementation -INFO - password entered
+2018-01-22 00:33:01,797 - LoginImplementation -INFO - Login button clicked
+2018-01-22 01:01:50,310 - SignUpImplementation -INFO - Password entered
+2018-01-22 01:02:04,010 - SignUpImplementation -INFO - Password entered

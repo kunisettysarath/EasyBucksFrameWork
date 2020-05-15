@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.kalinga.EasyBucks.test.EasyBucks.EndToEnd">
+        <methods>
+          <include name="aclass"/>
+          <include name="tearDown"/>
+          <include name="test3"/>
+          <include name="test1"/>
+          <include name="test2"/>
+          <include name="aSuit"/>
+          <include name="beforeClass"/>
+          <include name="bmethod"/>
+        </methods>
+      </class> <!-- com.mindtree.kalinga.EasyBucks.test.EasyBucks.EndToEnd -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
